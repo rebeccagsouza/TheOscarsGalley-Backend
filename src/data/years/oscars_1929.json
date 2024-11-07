@@ -1,0 +1,120 @@
+{
+  "1929": [
+    {
+      "category": "Best Picture",
+      "category_pt": "Melhor Filme",
+      "movies": [
+        { "title": "Wings", "title_pt": "Asas", "imdbId": "tt0018578" },
+        { "title": "The Racket", "title_pt": "O Racket", "imdbId": "tt0019304" },
+        { "title": "7th Heaven", "title_pt": "Sétimo Céu", "imdbId": "tt0018379" }
+      ],
+      "winner": "Wings",
+      "oscars_year": 1929
+    },
+    {
+      "category": "Best Unique and Artistic Picture",
+      "category_pt": "Melhor Qualidade Artística de Produção",
+      "movies": [
+        { "title": "Sunrise: A Song of Two Humans", "title_pt": "Aurora", "imdbId": "tt0018455" },
+        { "title": "Chang: A Drama of the Wilderness", "title_pt": "Chang: Um Drama na Selva", "imdbId": "tt0017729" },
+        { "title": "The Crowd", "title_pt": "A Multidão", "imdbId": "tt0018806" }
+      ],
+      "winner": "Sunrise: A Song of Two Humans",
+      "oscars_year": 1929
+    },
+    {
+      "category": "Best Director (Comedy Picture)",
+      "category_pt": "Melhor Diretor, Filme de Comédia",
+      "movies": [
+        { "title": "Two Arabian Knights", "title_pt": "Dois Cavaleiros Árabes", "imdbId": "tt0019390" },
+        { "title": "Speedy", "title_pt": "Speedy", "imdbId": "tt0019344" }
+      ],
+      "winner": "Two Arabian Knights",
+      "oscars_year": 1929
+    },
+    {
+      "category": "Best Director (Dramatic Picture)",
+      "category_pt": "Melhor Diretor, Filme de Drama",
+      "movies": [
+        { "title": "7th Heaven", "title_pt": "Sétimo Céu", "imdbId": "tt0018379" },
+        { "title": "Sorrell and Son", "title_pt": "Sorrell e Filho", "imdbId": "tt0019374" },
+        { "title": "The Crowd", "title_pt": "A Multidão", "imdbId": "tt0018806" }
+      ],
+      "winner": "7th Heaven",
+      "oscars_year": 1929
+    },
+    {
+      "category": "Best Actor in a Leading Role",
+      "category_pt": "Melhor Ator",
+      "movies": [
+        { "title": "The Last Command", "title_pt": "A Última Ordem", "imdbId": "tt0019099" },
+        { "title": "The Way of All Flesh", "title_pt": "O Destino de Todos", "imdbId": "tt0019577" }
+      ],
+      "winner": "The Last Command",
+      "oscars_year": 1929
+    },
+    {
+      "category": "Best Actress in a Leading Role",
+      "category_pt": "Melhor Atriz",
+      "movies": [
+        { "title": "7th Heaven", "title_pt": "Sétimo Céu","imdbId": "tt0018379" },
+        { "title": "Street Angel", "title_pt": "Anjo das Ruas", "imdbId": "tt0019449" },
+        { "title": "Sunrise: A Song of Two Humans", "title_pt": "Aurora", "imdbId": "tt0018455" }
+      ],
+      "winner": "7th Heaven",
+      "oscars_year": 1929
+    },
+    {
+      "category": "Best Writing (Original Story)",
+      "category_pt": "Melhor Roteiro Original",
+      "movies": [
+        { "title": "Underworld", "title_pt": "Submundo", "imdbId": "tt0018526" },
+        { "title": "The Last Command", "title_pt": "A Última Ordem", "imdbId": "tt0019099" }
+      ],
+      "winner": "Underworld",
+      "oscars_year": 1929
+    },
+    {
+      "category": "Best Writing (Adaptation)",
+      "category_pt": "Melhor Roteiro Adaptado",
+      "movies": [
+        { "title": "7th Heaven", "title_pt": "Sétimo Céu", "imdbId": "tt0018379" },
+        { "title": "Glorious Betsy", "title_pt": "Gloriosa Betsy", "imdbId": "tt0018948" },
+        { "title": "The Jazz Singer", "title_pt": "O Cantor de Jazz",  "imdbId": "tt0018037" }
+      ],
+      "winner": "7th Heaven",
+      "oscars_year": 1929
+    },
+    {
+      "category": "Best Cinematography",
+      "category_pt": "Melhor Cinematografia",
+      "movies": [
+        { "title": "Sunrise: A Song of Two Humans", "title_pt": "Aurora", "imdbId": "tt0018455" },
+        { "title": "The Devil Dancer", "title_pt": "A Dançarina Diabólica", "imdbId": "tt0018731" },
+        { "title": "Sadie Thompson", "title_pt": "Sadie Thompson", "imdbId": "tt0019336" }
+      ],
+      "winner": "Sunrise: A Song of Two Humans",
+      "oscars_year": 1929
+    },
+    {
+      "category": "Best Art Direction",
+      "category_pt": "Melhor Direção de Arte",
+      "movies": [
+        { "title": "The Dove", "title_pt": "A Pomba", "imdbId": "tt0018860" },
+        { "title": "Tempest", "title_pt": "Tempestade", "imdbId": "tt0019447" },
+        { "title": "Sunrise: A Song of Two Humans", "title_pt": "Aurora", "imdbId": "tt0018455" }
+      ],
+      "winner": "The Dove",
+      "oscars_year": 1929
+    },
+    {
+      "category": "Best Engineering Effects",
+      "category_pt": "Melhor Engenharia de Efeitos",
+      "movies": [
+        { "title": "Wings", "title_pt": "Asas", "imdbId": "tt0018578" }
+      ],
+      "winner": "Wings",
+      "oscars_year": 1929
+    }
+  ]
+}

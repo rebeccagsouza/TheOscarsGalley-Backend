@@ -1,0 +1,115 @@
+{
+    "1931": [
+      {
+        "category": "Best Picture",
+        "category_pt": "Melhor Filme",
+        "movies": [
+          { "title": "All Quiet on the Western Front", "title_pt": "Nada de Novo no Front", "imdbId": "tt0020629" },
+          { "title": "The Big House", "title_pt": "A Casa Grande", "imdbId": "tt0020686" },
+          { "title": "Disraeli", "title_pt": "Disraeli", "imdbId": "tt0020827" },
+          { "title": "The Divorcee", "title_pt": "A Divorciada", "imdbId": "tt0020798" },
+          { "title": "The Love Parade", "title_pt": "A Parada do Amor", "imdbId": "tt0021040" }
+        ],
+        "winner": "All Quiet on the Western Front",
+        "oscars_year": 1931
+      },
+      {
+        "category": "Best Director",
+        "category_pt": "Melhor Diretor",
+        "movies": [
+          { "title": "All Quiet on the Western Front", "title_pt": "Nada de Novo no Front", "imdbId": "tt0020629" },
+          { "title": "Anna Christie", "title_pt": "Anna Christie", "imdbId": "tt0020642" },
+          { "title": "Romance", "title_pt": "Romance",  "imdbId": "tt0021348" },
+          { "title": "The Divorcee", "title_pt": "A Divorciada", "imdbId": "tt0020798" },
+          { "title": "The Love Parade", "title_pt": "A Parada do Amor", "imdbId": "tt0021040" },
+          { "title": "Hallelujah!", "title_pt": "Aleluia!",  "imdbId": "tt0020014" }
+        ],
+        "winner": "All Quiet on the Western Front",
+        "oscars_year": 1931
+      },
+      {
+        "category": "Best Actor in a Leading Role",
+        "category_pt": "Melhor Ator",
+        "movies": [
+          { "title": "Disraeli", "title_pt": "Disraeli", "imdbId": "tt0020827" },
+          { "title": "The Green Goddess", "title_pt": "A Deusa Verde",  "imdbId": "tt0020917" },
+          { "title": "The Big House", "title_pt": "A Casa Grande", "imdbId": "tt0020686" },
+          { "title": "The Big Pond", "title_pt": "A Grande Lagoa", "imdbId": "tt0020685" },
+          { "title": "The Love Parade", "title_pt": "A Parada do Amor", "imdbId": "tt0021040" },
+          { "title": "Bulldog Drummond", "title_pt": "Bulldog Drummond", "imdbId": "tt0020783" },
+          { "title": "Condemned", "title_pt": "Condenado", "imdbId": "tt0020808" },
+          { "title": "The Rogue Song", "title_pt": "A Canção do Malandro",  "imdbId": "tt0021339" }
+        ],
+        "winner": "Disraeli",
+        "oscars_year": 1931
+      },
+      {
+        "category": "Best Actress in a Leading Role",
+        "category_pt": "Melhor Atriz",
+        "movies": [
+          { "title": "The Divorcee", "title_pt": "A Divorciada", "imdbId": "tt0020798" },
+          { "title": "The Devil's Holiday", "title_pt": "Feriado do Diabo",  "imdbId": "tt0020823" },
+          { "title": "Sarah and Son", "title_pt": "Sarah e o Filho",  "imdbId": "tt0021342" },
+          { "title": "Anna Christie", "title_pt": "Anna Christie", "imdbId": "tt0020642" },
+          { "title": "Romance", "title_pt": "Romance",  "imdbId": "tt0021348" },
+          { "title": "Their Own Desire", "title_pt": "Seu Próprio Desejo", "imdbId": "tt0020465" },
+          { "title": "The Trespasser", "title_pt": "A Invasora", "imdbId": "tt0020489" }
+        ],
+        "winner": "The Divorcee",
+        "oscars_year": 1931
+      },
+      {
+        "category": "Best Story",
+        "category_pt": "Melhor História",
+        "movies": [
+          { "title": "The Big House", "title_pt": "A Casa Grande", "imdbId": "tt0020686" },
+          { "title": "All Quiet on the Western Front", "title_pt": "Nada de Novo no Front", "imdbId": "tt0020629" },
+          { "title": "Disraeli", "title_pt": "Disraeli", "imdbId": "tt0020827" },
+          { "title": "The Divorcee", "title_pt": "A Divorciada", "imdbId": "tt0020798" },
+          { "title": "Street of Chance", "title_pt": "Rua da Sorte",  "imdbId": "tt0021393" }
+        ],
+        "winner": "The Big House",
+        "oscars_year": 1931
+      },
+      {
+        "category": "Best Sound Mixing",
+        "category_pt": "Melhor Mixagem de Som",
+        "movies": [
+          { "title": "The Big House", "title_pt": "A Casa Grande", "imdbId": "tt0020686" },
+          { "title": "The Case of Sergeant Grischa", "title_pt": "O Caso do Sargento Grischa",  "imdbId": "tt0020756" },
+          { "title": "The Love Parade", "title_pt": "A Parada do Amor", "imdbId": "tt0021040" },
+          { "title": "Raffles", "title_pt": "Raffles",  "imdbId": "tt0021329" },
+          { "title": "Song of the Flame", "title_pt": "A Canção da Chama",  "imdbId": "tt0021363" }
+        ],
+        "winner": "The Big House",
+        "oscars_year": 1931
+      },
+      {
+        "category": "Best Art Direction",
+        "category_pt": "Melhor Direção de Arte",
+        "movies": [
+          { "title": "The King of Jazz", "title_pt": "O Rei do Jazz", "imdbId": "tt0021016" },
+          { "title": "Bulldog Drummond", "title_pt": "Bulldog Drummond", "imdbId": "tt0020783" },
+          { "title": "The Love Parade", "title_pt": "A Parada do Amor", "imdbId": "tt0021040" },
+          { "title": "Sally", "title_pt": "Sally",  "imdbId": "tt0021333" },
+          { "title": "The Vagabond King", "title_pt": "O Rei Vagabundo", "imdbId": "tt0021401" }
+        ],
+        "winner": "The King of Jazz",
+        "oscars_year": 1931
+      },
+      {
+        "category": "Best Cinematography",
+        "category_pt": "Melhor Fotografia",
+        "movies": [
+          { "title": "With Byrd at the South Pole", "title_pt": "Com Byrd no Pólo Sul",  "imdbId": "tt0021561" },
+          { "title": "All Quiet on the Western Front", "title_pt": "Nada de Novo no Front", "imdbId": "tt0020629" },
+          { "title": "Anna Christie", "title_pt": "Anna Christie", "imdbId": "tt0020642" },
+          { "title": "Hell's Angels", "title_pt": "Anjos do Inferno", "imdbId": "tt0020960" },
+          { "title": "The Love Parade", "title_pt": "A Parada do Amor", "imdbId": "tt0021040" }
+        ],
+        "winner": "With Byrd at the South Pole",
+        "oscars_year": 1931
+      }
+    ]
+  }
+  

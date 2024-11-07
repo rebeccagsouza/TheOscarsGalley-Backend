@@ -1,0 +1,107 @@
+{
+    "1930": [
+      {
+        "category": "Best Picture",
+        "category_pt": "Melhor Filme",
+        "movies": [
+          { "title": "The Broadway Melody", "title_pt": "Melodia da Broadway", "imdbId": "tt0019729" },
+          { "title": "Alibi", "title_pt": "Álibi", "imdbId": "tt0019649" },
+          { "title": "The Hollywood Revue of 1929", "title_pt": "Revista de Hollywood de 1929", "imdbId": "tt0019964" },
+          { "title": "In Old Arizona", "title_pt": "Velho Arizona", "imdbId": "tt0020018" },
+          { "title": "The Patriot", "title_pt": "O Patriota", "imdbId": "tt0019286" }
+        ],
+        "winner": "The Broadway Melody",
+        "oscars_year": 1930
+      },
+      {
+        "category": "Best Director",
+        "category_pt": "Melhor Diretor",
+        "movies": [
+          { "title": "The Divine Lady", "title_pt": "A Divina Dama", "imdbId": "tt0019875" },
+          { "title": "Madame X", "title_pt": "Madame X", "imdbId": "tt0020112" },
+          { "title": "The Broadway Melody", "title_pt": "Melodia da Broadway", "imdbId": "tt0019729" },
+          { "title": "In Old Arizona", "title_pt": "Velho Arizona", "imdbId": "tt0020018" },
+          { "title": "Drag", "title_pt": "Drag", "imdbId": "tt0020848" },
+          { "title": "Weary River", "title_pt": "Weary River", "imdbId": "tt0020512" },
+          { "title": "The Patriot", "title_pt": "O Patriota", "imdbId": "tt0019286" }
+        ],
+        "winner": "The Divine Lady",
+        "oscars_year": 1930
+      },
+      {
+        "category": "Best Actor in a Leading Role",
+        "category_pt": "Melhor Ator",
+        "movies": [
+          { "title": "In Old Arizona", "title_pt": "Velho Arizona", "imdbId": "tt0020018" },
+          { "title": "Thunderbolt", "title_pt": "Thunderbolt", "imdbId": "tt0020462" },
+          { "title": "Alibi", "title_pt": "Álibi", "imdbId": "tt0019649" },
+          { "title": "The Valiant", "title_pt": "O Valente", "imdbId": "tt0020540" },
+          { "title": "The Patriot", "title_pt": "O Patriota", "imdbId": "tt0019286" }
+        ],
+        "winner": "In Old Arizona",
+        "oscars_year": 1930
+      },
+      {
+        "category": "Best Actress in a Leading Role",
+        "category_pt": "Melhor Atriz",
+        "movies": [
+          { "title": "Coquette", "title_pt": "Coquette", "imdbId": "tt0019788" },
+          { "title": "Madame X", "title_pt": "Madame X", "imdbId": "tt0020112" },
+          { "title": "The Barker", "title_pt": "O Chamador", "imdbId": "tt0018721" },
+          { "title": "The Letter", "title_pt": "A Carta", "imdbId": "tt0019885" },
+          { "title": "The Divine Lady", "title_pt": "A Divina Dama", "imdbId": "tt0019875" },
+          { "title": "The Broadway Melody", "title_pt": "Melodia da Broadway", "imdbId": "tt0019729" }
+        ],
+        "winner": "Coquette",
+        "oscars_year": 1930
+      },
+      {
+        "category": "Best Writing",
+        "category_pt": "Melhor Roteiro",
+        "movies": [
+          { "title": "The Patriot", "title_pt": "O Patriota", "imdbId": "tt0019286" },
+          { "title": "In Old Arizona", "title_pt": "Velho Arizona", "imdbId": "tt0020018" },
+          { "title": "The Valiant", "title_pt": "O Valente", "imdbId": "tt0020540" },
+          { "title": "The Cop", "title_pt": "O Policial", "imdbId": "tt0018790" },
+          { "title": "The Leatherneck", "title_pt": "O Fuzileiro Naval", "imdbId": "tt0019104" },
+          { "title": "Sal of Singapore", "title_pt": "Sal de Cingapura", "imdbId": "tt0019356" },
+          { "title": "Skyscraper", "title_pt": "Arranha-Céu", "imdbId": "tt0019345" },
+          { "title": "The Last of Mrs. Cheyney", "title_pt": "A Última Sra. Cheyney", "imdbId": "tt0018054" },
+          { "title": "Our Dancing Daughters", "title_pt": "Nossas Filhas Dançarinas", "imdbId": "tt0019206" },
+          { "title": "A Woman of Affairs", "title_pt": "Uma Mulher de Caráter", "imdbId": "tt0019529" },
+          { "title": "Wonder of Women", "title_pt": "Milagre das Mulheres", "imdbId": "tt0019586" }
+        ],
+        "winner": "The Patriot",
+        "oscars_year": 1930
+      },
+      {
+        "category": "Best Cinematography",
+        "category_pt": "Melhor Fotografia",
+        "movies": [
+          { "title": "White Shadows in the South Seas", "title_pt": "Sombras Brancas nos Mares do Sul", "tmdbId": 174870, "imdbId": "tt0019583" },
+          { "title": "Our Dancing Daughters", "title_pt": "Nossas Filhas Dançarinas", "tmdbId": 118229, "imdbId": "tt0019206" },
+          { "title": "In Old Arizona", "title_pt": "Velho Arizona", "tmdbId": 7628, "imdbId": "tt0020018" },
+          { "title": "Four Devils", "title_pt": "Quatro Demônios", "tmdbId": 117621, "imdbId": "tt0018881" },
+          { "title": "Street Angel", "title_pt": "Anjo das Ruas", "tmdbId": 11772, "imdbId": "tt0019449" },
+          { "title": "The Divine Lady", "title_pt": "A Divina Dama", "tmdbId": 117754, "imdbId": "tt0019875" }
+        ],
+        "winner": "White Shadows in the South Seas",
+        "oscars_year": 1930
+      },
+      {
+        "category": "Best Art Direction",
+        "category_pt": "Melhor Direção de Arte",
+        "movies": [
+          { "title": "The Bridge of San Luis Rey", "title_pt": "A Ponte de San Luis Rey", "tmdbId": 108984, "imdbId": "tt0019737" },
+          { "title": "The Patriot", "title_pt": "O Patriota", "tmdbId": 7734, "imdbId": "tt0019286" },
+          { "title": "Dynamite", "title_pt": "Dinamite", "tmdbId": 100004, "imdbId": "tt0019818" },
+          { "title": "Alibi", "title_pt": "Álibi", "tmdbId": 118294, "imdbId": "tt0019649" },
+          { "title": "The Awakening", "title_pt": "O Despertar", "tmdbId": 101354, "imdbId": "tt0018748" },
+          { "title": "Street Angel", "title_pt": "Anjo das Ruas", "tmdbId": 11772, "imdbId": "tt0019449"}
+        ],
+        "winner": "The Bridge of San Luis Rey",
+        "oscars_year": 1930
+      }
+    ]
+  }
+  

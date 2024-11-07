@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                   // Escolha ES6 para compatibilidade
+    "module": "commonjs",               // Módulo padrão para Node.js
+    "rootDir": "./src",                 // Diretório de entrada
+    "outDir": "./dist",                 // Diretório de saída para código compilado
+    "strict": true,                     // Habilita verificações estritas
+    "esModuleInterop": true,            // Necessário para importações padrão do ES6
+    "skipLibCheck": true,               // Ignora verificação de bibliotecas para reduzir tempo de compilação
+    "forceConsistentCasingInFileNames": true // Consistência em letras maiúsculas e minúsculas
+  },
+  "include": ["src"],                   // Inclui o diretório de código-fonte
+  "exclude": ["node_modules"]           // Exclui o diretório node_modules
+}
