@@ -10,6 +10,11 @@ const PORT = process.env.PORT || 5000;
 
 app.use(express.json());
 
+const cors = require("cors")
+app.use(cors({
+  origin: "http://localhost:3000"
+}))
+
 mongoose.connect(process.env.MONGO_URI || '')
   .then(() => console.log('MongoDB connected'))
   .catch(error => console.error('MongoDB connection error:', error));
