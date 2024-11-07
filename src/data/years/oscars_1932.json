@@ -1,0 +1,121 @@
+{
+    "1932": [
+      {
+        "category": "Best Picture",
+        "category_pt": "Melhor Filme",
+        "movies": [
+          { "title": "Cimarron", "title_pt": "Cimarron", "tmdbId": 43792, "imdbId": "tt0021746" },
+          { "title": "East Lynne", "title_pt": "East Lynne", "tmdbId": 166413, "imdbId": "tt0021861" },
+          { "title": "The Front Page", "title_pt": "A Primeira Página", "tmdbId": 305, "imdbId": "tt0021890" },
+          { "title": "Skippy", "title_pt": "Skippy", "tmdbId": 120328, "imdbId": "tt0022387" },
+          { "title": "Trader Horn", "title_pt": "Trader Horn", "tmdbId": 99150, "imdbId": "tt0022484" }
+        ],
+        "winner": "Cimarron",
+        "oscars_year": 1932
+      },
+      {
+        "category": "Best Director",
+        "category_pt": "Melhor Diretor",
+        "movies": [
+          { "title": "Skippy", "title_pt": "Skippy", "tmdbId": 120328, "imdbId": "tt0022387" },
+          { "title": "A Free Soul", "title_pt": "Alma Livre", "tmdbId": 44557, "imdbId": "tt0021885" },
+          { "title": "The Front Page", "title_pt": "A Primeira Página", "tmdbId": 305, "imdbId": "tt0021890" },
+          { "title": "Cimarron", "title_pt": "Cimarron", "tmdbId": 43792, "imdbId": "tt0021746" },
+          { "title": "Morocco", "title_pt": "Marrocos", "tmdbId": 12159, "imdbId": "tt0022150" }
+        ],
+        "winner": "Skippy",
+        "oscars_year": 1932
+      },
+      {
+        "category": "Best Actor in a Leading Role",
+        "category_pt": "Melhor Ator",
+        "movies": [
+          { "title": "A Free Soul", "title_pt": "Alma Livre", "tmdbId": 44557, "imdbId": "tt0021885" },
+          { "title": "Skippy", "title_pt": "Skippy", "tmdbId": 120328, "imdbId": "tt0022387" },
+          { "title": "Cimarron", "title_pt": "Cimarron", "tmdbId": 43792, "imdbId": "tt0021746" },
+          { "title": "The Royal Family of Broadway", "title_pt": "A Família Real da Broadway", "tmdbId": 118164, "imdbId": "tt0022352" },
+          { "title": "The Front Page", "title_pt": "A Primeira Página", "tmdbId": 305, "imdbId": "tt0021890" }
+        ],
+        "winner": "A Free Soul",
+        "oscars_year": 1932
+      },
+      {
+        "category": "Best Actress in a Leading Role",
+        "category_pt": "Melhor Atriz",
+        "movies": [
+          { "title": "Min and Bill", "title_pt": "Min e Bill", "tmdbId": 98653, "imdbId": "tt0022158" },
+          { "title": "Morocco", "title_pt": "Marrocos", "tmdbId": 12159, "imdbId": "tt0022150" },
+          { "title": "Cimarron", "title_pt": "Cimarron", "tmdbId": 43792, "imdbId": "tt0021746" },
+          { "title": "Holiday", "title_pt": "Feriado", "tmdbId": 126847, "imdbId": "tt0021993" },
+          { "title": "A Free Soul", "title_pt": "Alma Livre", "tmdbId": 44557, "imdbId": "tt0021885" }
+        ],
+        "winner": "Min and Bill",
+        "oscars_year": 1932
+      },
+      {
+        "category": "Best Original Story",
+        "category_pt": "Melhor História Original",
+        "movies": [
+          { "title": "The Dawn Patrol", "title_pt": "Patrulha da Madrugada", "tmdbId": 87216, "imdbId": "tt0020815" },
+          { "title": "The Doorway to Hell", "title_pt": "A Porta do Inferno", "tmdbId": 88599, "imdbId": "tt0021814" },
+          { "title": "Laughter", "title_pt": "Risadas", "tmdbId": 119448, "imdbId": "tt0021064" },
+          { "title": "The Public Enemy", "title_pt": "Inimigo Público", "tmdbId": 914, "imdbId": "tt0022286" },
+          { "title": "Smart Money", "title_pt": "Dinheiro Inteligente", "tmdbId": 43296, "imdbId": "tt0022341" }
+        ],
+        "winner": "The Dawn Patrol",
+        "oscars_year": 1932
+      },
+      {
+        "category": "Best Writing (Adaptation)",
+        "category_pt": "Melhor Roteiro (Adaptação)",
+        "movies": [
+          { "title": "Cimarron", "title_pt": "Cimarron", "tmdbId": 43792, "imdbId": "tt0021746" },
+          { "title": "The Criminal Code", "title_pt": "O Código Criminal", "tmdbId": 98753, "imdbId": "tt0020768" },
+          { "title": "Holiday", "title_pt": "Feriado", "tmdbId": 126847, "imdbId": "tt0021993" },
+          { "title": "Little Caesar", "title_pt": "O Pequeno César", "tmdbId": 12097, "imdbId": "tt0021079" },
+          { "title": "Skippy", "title_pt": "Skippy", "tmdbId": 120328, "imdbId": "tt0022387" }
+        ],
+        "winner": "Cimarron",
+        "oscars_year": 1932
+      },
+      {
+        "category": "Best Art Direction",
+        "category_pt": "Melhor Direção de Arte",
+        "movies": [
+          { "title": "Cimarron", "title_pt": "Cimarron", "tmdbId": 43792, "imdbId": "tt0021746" },
+          { "title": "Just Imagine", "title_pt": "Imagine Só", "tmdbId": 98772, "imdbId": "tt0021016" },
+          { "title": "Morocco", "title_pt": "Marrocos", "tmdbId": 12159, "imdbId": "tt0022150" },
+          { "title": "Svengali", "title_pt": "Svengali", "tmdbId": 124130, "imdbId": "tt0022435" },
+          { "title": "Whoopee!", "title_pt": "Quem Ri por Último", "tmdbId": 120181, "imdbId": "tt0021496" }
+        ],
+        "winner": "Cimarron",
+        "oscars_year": 1932
+      },
+      {
+        "category": "Best Cinematography",
+        "category_pt": "Melhor Fotografia",
+        "movies": [
+          { "title": "Tabu", "title_pt": "Tabu", "tmdbId": 16879, "imdbId": "tt0022458" },
+          { "title": "Cimarron", "title_pt": "Cimarron", "tmdbId": 43792, "imdbId": "tt0021746" },
+          { "title": "Morocco", "title_pt": "Marrocos", "tmdbId": 12159, "imdbId": "tt0022150" },
+          { "title": "The Right to Love", "title_pt": "O Direito de Amar", "tmdbId": 211842, "imdbId": "tt0022266" },
+          { "title": "Svengali", "title_pt": "Svengali", "tmdbId": 124130, "imdbId": "tt0022435" }
+        ],
+        "winner": "Tabu",
+        "oscars_year": 1932
+      },
+      {
+        "category": "Best Sound Mixing",
+        "category_pt": "Melhor Mixagem de Som",
+        "movies": [
+          { "title": "Paramount Pictures", "title_pt": "Paramount Pictures", "tmdbId": null, "imdbId": null },
+          { "title": "Metro-Goldwyn-Mayer", "title_pt": "Metro-Goldwyn-Mayer", "tmdbId": null, "imdbId": null },
+          { "title": "RKO Pictures", "title_pt": "RKO Pictures", "tmdbId": null, "imdbId": null },
+          { "title": "Samuel Goldwyn Productions—United Artists", "title_pt": "Samuel Goldwyn Productions", "tmdbId": null, "imdbId": null }
+        ],
+        "winner": "Paramount Pictures",
+        "oscars_year": 1932
+      }
+    ]
+  }
+  

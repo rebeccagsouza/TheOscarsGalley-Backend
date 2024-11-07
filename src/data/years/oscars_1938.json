@@ -1,0 +1,159 @@
+{
+    "1938": [
+      {
+        "category": "Best Picture",
+        "category_pt": "Melhor Filme",
+        "movies": [
+          { "title": "The Life of Emile Zola", "title_pt": "A Vida de Emile Zola", "imdbId": "tt0029146" },
+          { "title": "The Awful Truth", "title_pt": "Cupido é Moleque Teimoso", "imdbId": "tt0028597" },
+          { "title": "Captains Courageous", "title_pt": "Marujo Intrépido", "imdbId": "tt0028665" },
+          { "title": "Dead End", "title_pt": "Rua Sem Sol", "imdbId": "tt0028773" },
+          { "title": "The Good Earth", "title_pt": "A Boa Terra", "imdbId": "tt0028944" },
+          { "title": "In Old Chicago", "title_pt": "Em Velho Chicago", "imdbId": "tt0029047" },
+          { "title": "Lost Horizon", "title_pt": "Horizonte Perdido", "imdbId": "tt0029162" },
+          { "title": "One Hundred Men and a Girl", "title_pt": "Cem Homens e uma Garota", "imdbId": "tt0029322" },
+          { "title": "Stage Door", "title_pt": "Das Trevas ao Céu", "imdbId": "tt0029604" },
+          { "title": "A Star Is Born", "title_pt": "Nasce uma Estrela", "imdbId": "tt0029606" }
+        ],
+        "winner": "The Life of Emile Zola",
+        "oscars_year": 1938
+      },
+      {
+        "category": "Best Director",
+        "category_pt": "Melhor Diretor",
+        "movies": [
+          { "title": "The Awful Truth", "title_pt": "Cupido é Moleque Teimoso", "imdbId": "tt0028597" },
+          { "title": "The Life of Emile Zola", "title_pt": "A Vida de Emile Zola", "imdbId": "tt0029146" },
+          { "title": "The Good Earth", "title_pt": "A Boa Terra", "imdbId": "tt0028944" },
+          { "title": "Stage Door", "title_pt": "Das Trevas ao Céu", "imdbId": "tt0029604" },
+          { "title": "A Star Is Born", "title_pt": "Nasce uma Estrela", "imdbId": "tt0029606" }
+        ],
+        "winner": "The Awful Truth",
+        "oscars_year": 1938
+      },
+      {
+        "category": "Best Actor in a Leading Role",
+        "category_pt": "Melhor Ator",
+        "movies": [
+          { "title": "Captains Courageous", "title_pt": "Marujo Intrépido", "imdbId": "tt0028665" },
+          { "title": "Conquest", "title_pt": "Conquista", "imdbId": "tt0028743" },
+          { "title": "A Star Is Born", "title_pt": "Nasce uma Estrela", "imdbId": "tt0029606" },
+          { "title": "Night Must Fall", "title_pt": "A Noite Deverá Cair", "imdbId": "tt0029202" },
+          { "title": "The Life of Emile Zola", "title_pt": "A Vida de Emile Zola", "imdbId": "tt0029146" }
+        ],
+        "winner": "Captains Courageous",
+        "oscars_year": 1938
+      },
+      {
+        "category": "Best Actress in a Leading Role",
+        "category_pt": "Melhor Atriz",
+        "movies": [
+          { "title": "The Good Earth", "title_pt": "A Boa Terra", "imdbId": "tt0028944" },
+          { "title": "The Awful Truth", "title_pt": "Cupido é Moleque Teimoso", "imdbId": "tt0028597" },
+          { "title": "Camille", "title_pt": "Camille", "imdbId": "tt0028683" },
+          { "title": "A Star Is Born", "title_pt": "Nasce uma Estrela", "imdbId": "tt0029606" },
+          { "title": "Stella Dallas", "title_pt": "Stella Dallas", "imdbId": "tt0029600" }
+        ],
+        "winner": "The Good Earth",
+        "oscars_year": 1938
+      },
+      {
+        "category": "Best Supporting Actor",
+        "category_pt": "Melhor Ator Coadjuvante",
+        "movies": [
+          { "title": "The Life of Emile Zola", "title_pt": "A Vida de Emile Zola", "imdbId": "tt0029146" },
+          { "title": "The Awful Truth", "title_pt": "Cupido é Moleque Teimoso", "imdbId": "tt0028597" },
+          { "title": "The Hurricane", "title_pt": "O Furacão", "imdbId": "tt0029030" },
+          { "title": "Lost Horizon", "title_pt": "Horizonte Perdido", "imdbId": "tt0029162" },
+          { "title": "Topper", "title_pt": "Cupido é Moleque Teimoso", "imdbId": "tt0029608" }
+        ],
+        "winner": "The Life of Emile Zola",
+        "oscars_year": 1938
+      },
+      {
+        "category": "Best Supporting Actress",
+        "category_pt": "Melhor Atriz Coadjuvante",
+        "movies": [
+          { "title": "In Old Chicago", "title_pt": "Em Velho Chicago", "imdbId": "tt0029047" },
+          { "title": "Stage Door", "title_pt": "Das Trevas ao Céu", "imdbId": "tt0029604" },
+          { "title": "Stella Dallas", "title_pt": "Stella Dallas", "imdbId": "tt0029600" },
+          { "title": "Dead End", "title_pt": "Rua Sem Sol", "imdbId": "tt0028773" },
+          { "title": "Night Must Fall", "title_pt": "A Noite Deverá Cair", "imdbId": "tt0029202" }
+        ],
+        "winner": "In Old Chicago",
+        "oscars_year": 1938
+      },
+      {
+        "category": "Best Original Story",
+        "category_pt": "Melhor História Original",
+        "movies": [
+          { "title": "A Star Is Born", "title_pt": "Nasce uma Estrela", "imdbId": "tt0029606" },
+          { "title": "In Old Chicago", "title_pt": "Em Velho Chicago", "imdbId": "tt0029047" },
+          { "title": "The Life of Emile Zola", "title_pt": "A Vida de Emile Zola", "imdbId": "tt0029146" },
+          { "title": "One Hundred Men and a Girl", "title_pt": "Cem Homens e uma Garota", "imdbId": "tt0029322" },
+          { "title": "Black Legion", "title_pt": "Legião Negra", "imdbId": "tt0027456" }
+        ],
+        "winner": "A Star Is Born",
+        "oscars_year": 1938
+      },
+      {
+        "category": "Best Writing (Screenplay)",
+        "category_pt": "Melhor Roteiro",
+        "movies": [
+          { "title": "The Life of Emile Zola", "title_pt": "A Vida de Emile Zola", "imdbId": "tt0029146" },
+          { "title": "Stage Door", "title_pt": "Das Trevas ao Céu", "imdbId": "tt0029604" },
+          { "title": "A Star Is Born", "title_pt": "Nasce uma Estrela", "imdbId": "tt0029606" },
+          { "title": "The Awful Truth", "title_pt": "Cupido é Moleque Teimoso", "imdbId": "tt0028597" },
+          { "title": "Captains Courageous", "title_pt": "Marujo Intrépido", "imdbId": "tt0028665" }
+        ],
+        "winner": "The Life of Emile Zola",
+        "oscars_year": 1938
+      },
+      {
+        "category": "Best Short Subject (One-Reel)",
+        "category_pt": "Melhor Curta-metragem em Uma Bobina",
+        "movies": [
+          { "title": "The Private Life of the Gannets", "title_pt": "A Vida Privada dos Atobás", "imdbId": "tt0162239" },
+          { "title": "A Night at the Movies", "title_pt": "Uma Noite no Cinema", "imdbId": "tt0029201" },
+          { "title": "Romance of Radium", "title_pt": "Romance do Rádio", "imdbId": "tt0029567" }
+        ],
+        "winner": "The Private Life of the Gannets",
+        "oscars_year": 1938
+      },
+      {
+        "category": "Best Short Subject (Two-Reel)",
+        "category_pt": "Melhor Curta-metragem em Duas Bobinas",
+        "movies": [
+          { "title": "Torture Money", "title_pt": "Dinheiro de Tortura", "imdbId": "tt0029685" },
+          { "title": "Deep South", "title_pt": "Sul Profundo", "imdbId": "tt0029992" },
+          { "title": "Should Wives Work?", "title_pt": "As Esposas Deveriam Trabalhar?", "imdbId": "tt0029975" }
+        ],
+        "winner": "Torture Money",
+        "oscars_year": 1938
+      },
+      {
+        "category": "Best Original Score",
+        "category_pt": "Melhor Trilha Sonora",
+        "movies": [
+          { "title": "One Hundred Men and a Girl", "title_pt": "Cem Homens e uma Garota", "imdbId": "tt0029322" },
+          { "title": "Lost Horizon", "title_pt": "Horizonte Perdido", "imdbId": "tt0029162" },
+          { "title": "The Hurricane", "title_pt": "O Furacão", "imdbId": "tt0029030" },
+          { "title": "Something to Sing About", "title_pt": "Algo para Cantar", "imdbId": "tt0029594" },
+          { "title": "Way Out West", "title_pt": "Oeste à Fora", "imdbId": "tt0029762" },
+          { "title": "Maytime", "title_pt": "Canção de Maio", "imdbId": "tt0029198" },
+          { "title": "Souls at Sea", "title_pt": "Almas no Mar", "imdbId": "tt0029597" },
+          { "title": "Make a Wish", "title_pt": "Faça um Pedido", "imdbId": "tt0029163" },
+          { "title": "Portia on Trial", "title_pt": "Portia em Julgamento", "imdbId": "tt0029412" },
+          { "title": "Quality Street", "title_pt": "Rua da Qualidade", "imdbId": "tt0029408" },
+          { "title": "The Prisoner of Zenda", "title_pt": "O Prisioneiro de Zenda", "imdbId": "tt0029442" },
+          { "title": "In Old Chicago", "title_pt": "Em Velho Chicago", "imdbId": "tt0029047" },
+          { "title": "Snow White and the Seven Dwarfs", "title_pt": "Branca de Neve e os Sete Anões", "imdbId": "tt0029583" },
+          { "title": "The Life of Emile Zola", "title_pt": "A Vida de Emile Zola", "imdbId": "tt0029146" }
+        ],
+        "winner": "One Hundred Men and a Girl",
+        "oscars_year": 1938
+      }
+    ]
+  }
+  
+  

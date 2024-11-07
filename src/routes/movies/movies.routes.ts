@@ -9,10 +9,11 @@ const router = express.Router();
 // Rota para salvar filmes vencedores por ano
 router.post('/movies/oscar-winners/save/year/:year', async (req: Request, res: Response) => {
   const { year } = req.params;
+  const jsonData = req.body; 
 
   try {
-    const { addedCount } = await processOscarWinnersForYear(year);
-    res.status(200).json({ message: `Filmes vencedores do ano ${year} salvos com sucesso!`, addedCount });
+    const { addedCount, updatedCount } = await processOscarWinnersForYear(year, false, jsonData);
+    res.status(200).json({ message: `Filmes vencedores para o ano ${year} processados com sucesso!`, addedCount, updatedCount });
   } catch (error: any) {
     console.error('Erro ao salvar filmes vencedores:', error);
     res.status(500).json({ error: `Erro ao salvar filmes vencedores: ${error.message}` });

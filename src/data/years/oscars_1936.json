@@ -1,0 +1,226 @@
+{
+    "1936": [
+      {
+        "category": "Best Picture",
+        "category_pt": "Melhor Filme",
+        "movies": [
+          { "title": "Mutiny on the Bounty", "title_pt": "O Grande Motim", "imdbId": "tt0026752" },
+          { "title": "Alice Adams", "title_pt": "Alice Adams", "imdbId": "tt0026071" },
+          { "title": "Broadway Melody of 1936", "title_pt": "Melodia da Broadway de 1936", "imdbId": "tt0026114" },
+          { "title": "Captain Blood", "title_pt": "Capitão Blood", "imdbId": "tt0026174" },
+          { "title": "David Copperfield", "title_pt": "David Copperfield", "imdbId": "tt0026266" },
+          { "title": "The Informer", "title_pt": "O Delator", "imdbId": "tt0026529" },
+          { "title": "Les Misérables", "title_pt": "Os Miseráveis", "imdbId": "tt0026641" },
+          { "title": "The Lives of a Bengal Lancer", "title_pt": "A Vida de um Lanceiro Bengalês", "imdbId": "tt0026663" },
+          { "title": "A Midsummer Night's Dream", "title_pt": "Sonho de uma Noite de Verão", "imdbId": "tt0026714" },
+          { "title": "Naughty Marietta", "title_pt": "Marieta Endiabrada", "imdbId": "tt0026688" },
+          { "title": "Ruggles of Red Gap", "title_pt": "Ruggles de Red Gap", "imdbId": "tt0026986" },
+          { "title": "Top Hat", "title_pt": "Chapéu Alto", "imdbId": "tt0027125" }
+        ],
+        "winner": "Mutiny on the Bounty",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Director",
+        "category_pt": "Melhor Diretor",
+        "movies": [
+          { "title": "The Informer", "title_pt": "O Delator", "imdbId": "tt0026529" },
+          { "title": "Captain Blood", "title_pt": "Capitão Blood", "imdbId": "tt0026174" },
+          { "title": "The Lives of a Bengal Lancer", "title_pt": "A Vida de um Lanceiro Bengalês", "imdbId": "tt0026663" },
+          { "title": "Mutiny on the Bounty", "title_pt": "O Grande Motim", "imdbId": "tt0026752" }
+        ],
+        "winner": "The Informer",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Actor in a Leading Role",
+        "category_pt": "Melhor Ator",
+        "movies": [
+          { "title": "The Informer", "title_pt": "O Delator", "imdbId": "tt0026529" },
+          { "title": "Mutiny on the Bounty", "title_pt": "O Grande Motim", "imdbId": "tt0026752" },
+          { "title": "Black Fury", "title_pt": "Fúria Negra", "imdbId": "tt0026121" }
+        ],
+        "winner": "The Informer",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Actress in a Leading Role",
+        "category_pt": "Melhor Atriz",
+        "movies": [
+          { "title": "Dangerous", "title_pt": "Perigosa", "imdbId": "tt0026261" },
+          { "title": "Escape Me Never", "title_pt": "Nunca Me Deixes", "imdbId": "tt0026262" },
+          { "title": "Private Worlds", "title_pt": "Mundos Privados", "imdbId": "tt0026884" },
+          { "title": "Alice Adams", "title_pt": "Alice Adams", "imdbId": "tt0026071" },
+          { "title": "Becky Sharp", "title_pt": "Becky Sharp", "imdbId": "tt0026053" },
+          { "title": "The Dark Angel", "title_pt": "O Anjo das Trevas", "imdbId": "tt0026263" }
+        ],
+        "winner": "Dangerous",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Original Story",
+        "category_pt": "Melhor História Original",
+        "movies": [
+          { "title": "The Scoundrel", "title_pt": "O Canalha", "imdbId": "tt0026966" },
+          { "title": "Broadway Melody of 1936", "title_pt": "Melodia da Broadway de 1936", "imdbId": "tt0026114" },
+          { "title": "The Gay Deception", "title_pt": "A Decepção Alegre", "imdbId": "tt0026454" },
+          { "title": "G Men", "title_pt": "G Men", "imdbId": "tt0026416" }
+        ],
+        "winner": "The Scoundrel",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Writing (Adaptation)",
+        "category_pt": "Melhor Roteiro (Adaptação)",
+        "movies": [
+          { "title": "The Informer", "title_pt": "O Delator", "imdbId": "tt0026529" },
+          { "title": "The Lives of a Bengal Lancer", "title_pt": "A Vida de um Lanceiro Bengalês", "imdbId": "tt0026663" },
+          { "title": "Mutiny on the Bounty", "title_pt": "O Grande Motim", "imdbId": "tt0026752" },
+          { "title": "Captain Blood", "title_pt": "Capitão Blood", "imdbId": "tt0026174" }
+        ],
+        "winner": "The Informer",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Short Subject (One-Reel)",
+        "category_pt": "Melhor Curta-metragem em Uma Bobina",
+        "movies": [
+          { "title": "How to Sleep", "title_pt": "Como Dormir", "imdbId": "tt0026527" },
+          { "title": "Oh, My Nerves", "title_pt": "Oh, Minhas Nervos!", "imdbId": "tt0026774" },
+          { "title": "Tit for Tat", "title_pt": "Toma Lá, Dá Cá", "imdbId": "tt0027130" }
+        ],
+        "winner": "How to Sleep",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Short Subject (Two-Reel)",
+        "category_pt": "Melhor Curta-metragem em Duas Bobinas",
+        "movies": [
+          { "title": "Wings Over Everest", "title_pt": "Asas sobre o Everest", "imdbId": "tt0027165" },
+          { "title": "Audioscopiks", "title_pt": "Audioscopiks", "imdbId": "tt0026113" },
+          { "title": "Camera Thrills", "title_pt": "Emoções da Câmera", "imdbId": "tt0026195" }
+        ],
+        "winner": "Wings Over Everest",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Original Score",
+        "category_pt": "Melhor Trilha Sonora",
+        "movies": [
+          { "title": "The Informer", "title_pt": "O Delator", "imdbId": "tt0026529" },
+          { "title": "Captain Blood", "title_pt": "Capitão Blood", "imdbId": "tt0026174" },
+          { "title": "Mutiny on the Bounty", "title_pt": "O Grande Motim", "imdbId": "tt0026752" },
+          { "title": "Peter Ibbetson", "title_pt": "Peter Ibbetson", "imdbId": "tt0026861" }
+        ],
+        "winner": "The Informer",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Original Song",
+        "category_pt": "Melhor Canção Original",
+        "movies": [
+          { "title": "Gold Diggers of 1935", "title_pt": "Canção de Ninar da Broadway", "imdbId": "tt0027698" },
+          { "title": "Cheek to cheek", "title_pt": "Chapéu Alto", "imdbId": "tt0027125" },
+          { "title": "Roberta", "title_pt": "Lindo de Se Ver", "imdbId": "tt0026942" }
+        ],
+        "winner": "Lullaby of Broadway",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Dance Direction",
+        "category_pt": "Melhor Coreografia",
+        "movies": [
+          { "title": "Broadway Melody of 1936", "title_pt": "Melodia da Broadway de 1936", "imdbId": "tt0026114" },
+          { "title": "Folies Bergère de Paris", "title_pt": "Folies Bergère de Paris", "imdbId": "tt0026433" },
+          { "title": "All the King's Horses", "title_pt": "Todos os Cavalos do Rei", "imdbId": "tt0026059" },
+          { "title": "The Big Broadcast of 1936", "title_pt": "A Grande Transmissão de 1936", "imdbId": "tt0026110" },
+          { "title": "Broadway Hostess", "title_pt": "Anfitriã da Broadway", "imdbId": "tt0026142" },
+          { "title": "Go into Your Dance", "title_pt": "Vá para Sua Dança", "imdbId": "tt0026411" },
+          { "title": "Gold Diggers of 1935", "title_pt": "Procurando Ouro em 1935", "imdbId": "tt0026380" },
+          { "title": "King of Burlesque", "title_pt": "Rei do Burlesco", "imdbId": "tt0026618" },
+          { "title": "She", "title_pt": "Ela", "imdbId": "tt0026912" },
+          { "title": "Top Hat", "title_pt": "Chapéu Alto", "imdbId": "tt0027125" }
+        ],
+        "winner": "Broadway Melody of 1936",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Sound Recording",
+        "category_pt": "Melhor Mixagem de Som",
+        "movies": [
+          { "title": "Naughty Marietta", "title_pt": "Marieta Endiabrada", "imdbId": "tt0026688" },
+          { "title": "$1,000 a Minute", "title_pt": "$1,000 por Minuto", "imdbId": "tt0026127" },
+          { "title": "Bride of Frankenstein", "title_pt": "A Noiva de Frankenstein", "imdbId": "tt0026138" },
+          { "title": "Captain Blood", "title_pt": "Capitão Blood", "imdbId": "tt0026174" },
+          { "title": "The Dark Angel", "title_pt": "O Anjo das Trevas", "imdbId": "tt0026263" },
+          { "title": "I Dream Too Much", "title_pt": "Sonho Demais", "imdbId": "tt0026516" },
+          { "title": "The Lives of a Bengal Lancer", "title_pt": "A Vida de um Lanceiro Bengalês", "imdbId": "tt0026663" },
+          { "title": "Love Me Forever", "title_pt": "Me Ame Para Sempre", "imdbId": "tt0026698" },
+          { "title": "Thanks a Million", "title_pt": "Obrigado um Milhão", "imdbId": "tt0027048" }
+        ],
+        "winner": "Naughty Marietta",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Art Direction",
+        "category_pt": "Melhor Direção de Arte",
+        "movies": [
+          { "title": "The Dark Angel", "title_pt": "O Anjo das Trevas", "imdbId": "tt0026263" },
+          { "title": "The Lives of a Bengal Lancer", "title_pt": "A Vida de um Lanceiro Bengalês", "imdbId": "tt0026663" },
+          { "title": "Top Hat", "title_pt": "Chapéu Alto", "imdbId": "tt0027125" }
+        ],
+        "winner": "The Dark Angel",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Cinematography",
+        "category_pt": "Melhor Fotografia",
+        "movies": [
+          { "title": "A Midsummer Night's Dream", "title_pt": "Sonho de uma Noite de Verão", "imdbId": "tt0026714" },
+          { "title": "Barbary Coast", "title_pt": "Costa Bárbara", "imdbId": "tt0026136" },
+          { "title": "The Crusades", "title_pt": "As Cruzadas", "imdbId": "tt0026252" },
+          { "title": "Les Misérables", "title_pt": "Os Miseráveis", "imdbId": "tt0026641" }
+        ],
+        "winner": "A Midsummer Night's Dream",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Film Editing",
+        "category_pt": "Melhor Edição",
+        "movies": [
+          { "title": "A Midsummer Night's Dream", "title_pt": "Sonho de uma Noite de Verão", "imdbId": "tt0026714" },
+          { "title": "David Copperfield", "title_pt": "David Copperfield", "imdbId": "tt0026266" },
+          { "title": "The Informer", "title_pt": "O Delator", "imdbId": "tt0026529" },
+          { "title": "Les Misérables", "title_pt": "Os Miseráveis", "imdbId": "tt0026641" },
+          { "title": "The Lives of a Bengal Lancer", "title_pt": "A Vida de um Lanceiro Bengalês", "imdbId": "tt0026663" },
+          { "title": "Mutiny on the Bounty", "title_pt": "O Grande Motim", "imdbId": "tt0026752" }
+        ],
+        "winner": "A Midsummer Night's Dream",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Short Subject (Cartoon)",
+        "category_pt": "Melhor Animação em Curta-metragem",
+        "movies": [
+          { "title": "Three Orphan Kittens", "title_pt": "Três Gatinhos Órfãos", "imdbId": "tt0027066" },
+          { "title": "The Calico Dragon", "title_pt": "O Dragão de Calico", "imdbId": "tt0026141" },
+          { "title": "Who Killed Cock Robin?", "title_pt": "Quem Matou o Passarinho?", "imdbId": "tt0027185" }
+        ],
+        "winner": "Three Orphan Kittens",
+        "oscars_year": 1936
+      },
+      {
+        "category": "Best Assistant Director",
+        "category_pt": "Melhor Diretor Assistente",
+        "movies": [
+          { "title": "The Lives of a Bengal Lancer", "title_pt": "A Vida de um Lanceiro Bengalês", "imdbId": "tt0026663" },
+          { "title": "David Copperfield", "title_pt": "David Copperfield", "imdbId": "tt0026266" },
+          { "title": "Les Misérables", "title_pt": "Os Miseráveis", "imdbId": "tt0026641" },
+          { "title": "A Midsummer Night's Dream", "title_pt": "Sonho de uma Noite de Verão", "imdbId": "tt0026714" }
+        ],
+        "winner": "The Lives of a Bengal Lancer",
+        "oscars_year": 1936
+      }
+    ]
+  }
+  

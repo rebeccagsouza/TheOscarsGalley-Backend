@@ -6,24 +6,36 @@ import fs from 'fs';
 import Movie from '../../models/movie.model';
 
 // Função auxiliar para processar e salvar/atualizar filmes vencedores de um ano específico
-export async function processOscarWinnersForYear(year: string, updateExisting = false) {
+export async function processOscarWinnersForYear(
+  year: string,
+  updateExisting = false,
+  jsonData?: any
+) {
   console.log(`Iniciando processamento para o ano ${year}...`);
-  
-  // Carregar o arquivo JSON específico para o ano com limpeza de cache
-  const jsonFilePath = path.resolve(__dirname, `../../data/years/oscars_${year}.json`);
 
-  if (require.cache[require.resolve(jsonFilePath)]) {
-    delete require.cache[require.resolve(jsonFilePath)];
-    console.log(`Cache limpo para o arquivo JSON: ${jsonFilePath}`);
+  // Verifica se jsonData foi passado como argumento
+  let categories;
+  if (jsonData) {
+    console.log(`Usando JSON fornecido pelo frontend para o ano ${year}`);
+    categories = jsonData[year];
+  } else {
+    console.log(`Carregando arquivo JSON estático para o ano ${year}`);
+    const jsonFilePath = path.resolve(__dirname, `../../data/years/oscars_${year}.json`);
+
+    if (require.cache[require.resolve(jsonFilePath)]) {
+      delete require.cache[require.resolve(jsonFilePath)];
+      console.log(`Cache limpo para o arquivo JSON: ${jsonFilePath}`);
+    }
+
+    if (!fs.existsSync(jsonFilePath)) {
+      console.error(`Arquivo JSON para o ano ${year} não encontrado.`);
+      throw new Error(`Arquivo JSON para o ano ${year} não encontrado.`);
+    }
+
+    const fileContent = fs.readFileSync(jsonFilePath, 'utf-8');
+    const jsonDataFromFile = JSON.parse(fileContent);
+    categories = jsonDataFromFile[year];
   }
-
-  if (!fs.existsSync(jsonFilePath)) {
-    console.error(`Arquivo JSON para o ano ${year} não encontrado.`);
-    throw new Error(`Arquivo JSON para o ano ${year} não encontrado.`);
-  }
-
-  const jsonData = JSON.parse(fs.readFileSync(jsonFilePath, 'utf-8'));
-  const categories = jsonData[year];
 
   if (!Array.isArray(categories)) {
     console.error(`Formato inesperado no JSON: esperado um array em jsonData[${year}].`);
@@ -33,7 +45,6 @@ export async function processOscarWinnersForYear(year: string, updateExisting = 
   let addedCount = 0;
   let updatedCount = 0;
 
-  // Mapa para acumular filmes e suas categorias sem duplicação
   const moviesMap: {
     [imdbId: string]: {
       title: string;
@@ -47,7 +58,6 @@ export async function processOscarWinnersForYear(year: string, updateExisting = 
     };
   } = {};
 
-  // Processar cada categoria e evitar duplicatas
   for (const category of categories) {
     const { category: categoryEn, category_pt: categoryPt, winner, oscars_year } = category;
 
@@ -61,16 +71,13 @@ export async function processOscarWinnersForYear(year: string, updateExisting = 
       console.log(`Verificando filme: ${movie.title} (imdbId: ${movie.imdbId})`);
 
       const imdbId = movie.imdbId;
+      const existingMovie = await Movie.findOne({ imdbId, year: parseInt(year) });
 
-      // Verificar se o filme já existe no banco para evitar duplicação de inserção
-      const existingMovie = await Movie.findOne({ imdbId: imdbId, year: parseInt(year) });
-
-      if (existingMovie) {
+      if (existingMovie && !updateExisting) {
         console.log(`Filme já existe para o ano ${year}: ${movie.title} (${imdbId}), ignorando.`);
         continue;
       }
 
-      // Inicializar o filme e suas categorias se ainda não estiver no mapa
       if (!moviesMap[imdbId]) {
         moviesMap[imdbId] = {
           title: movie.title,
@@ -84,7 +91,6 @@ export async function processOscarWinnersForYear(year: string, updateExisting = 
         };
       }
 
-      // Acumular categorias de indicação e vitória
       moviesMap[imdbId].nominee_category.add(categoryEn);
       moviesMap[imdbId].nominee_category_pt.add(categoryPt);
 
@@ -95,7 +101,6 @@ export async function processOscarWinnersForYear(year: string, updateExisting = 
     }
   }
 
-  // Salvar apenas os filmes acumulados para o ano especificado
   for (const imdbId in moviesMap) {
     const movieData = moviesMap[imdbId];
     const newMovie = new Movie({

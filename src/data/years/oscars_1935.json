@@ -1,0 +1,196 @@
+{
+    "1935": [
+      {
+        "category": "Best Picture",
+        "category_pt": "Melhor Filme",
+        "movies": [
+          { "title": "It Happened One Night", "title_pt": "Aconteceu Naquela Noite", "imdbId": "tt0025316" },
+          { "title": "The Barretts of Wimpole Street", "title_pt": "A Família Barrett", "imdbId": "tt0024916" },
+          { "title": "Cleopatra", "title_pt": "Cleópatra", "imdbId": "tt0024991" },
+          { "title": "Flirtation Walk", "title_pt": "Passeio Flertante", "imdbId": "tt0025157" },
+          { "title": "The Gay Divorcee", "title_pt": "A Alegre Divorciada", "imdbId": "tt0025164" },
+          { "title": "Here Comes the Navy", "title_pt": "Lá Vem a Marinha", "imdbId": "tt0025244" },
+          { "title": "The House of Rothschild", "title_pt": "A Casa dos Rothschild", "imdbId": "tt0025263" },
+          { "title": "Imitation of Life", "title_pt": "Imitação da Vida", "imdbId": "tt0025301" },
+          { "title": "One Night of Love", "title_pt": "Uma Noite de Amor", "imdbId": "tt0025572" },
+          { "title": "The Thin Man", "title_pt": "A Ceia dos Acusados", "imdbId": "tt0025878" },
+          { "title": "Viva Villa!", "title_pt": "Viva Villa!", "imdbId": "tt0025914" },
+          { "title": "The White Parade", "title_pt": "A Parada Branca", "imdbId": "tt0025940" }
+        ],
+        "winner": "It Happened One Night",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Director",
+        "category_pt": "Melhor Diretor",
+        "movies": [
+          { "title": "It Happened One Night", "title_pt": "Aconteceu Naquela Noite", "imdbId": "tt0025316" },
+          { "title": "One Night of Love", "title_pt": "Uma Noite de Amor", "imdbId": "tt0025572" },
+          { "title": "The Thin Man", "title_pt": "A Ceia dos Acusados", "imdbId": "tt0025878" }
+        ],
+        "winner": "It Happened One Night",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Actor in a Leading Role",
+        "category_pt": "Melhor Ator",
+        "movies": [
+          { "title": "It Happened One Night", "title_pt": "Aconteceu Naquela Noite", "imdbId": "tt0025316" },
+          { "title": "The Affairs of Cellini", "title_pt": "Os Amores de Cellini", "imdbId": "tt0024852" },
+          { "title": "The Thin Man", "title_pt": "A Ceia dos Acusados", "imdbId": "tt0025878" }
+        ],
+        "winner": "It Happened One Night",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Actress in a Leading Role",
+        "category_pt": "Melhor Atriz",
+        "movies": [
+          { "title": "It Happened One Night", "title_pt": "Aconteceu Naquela Noite", "imdbId": "tt0025316" },
+          { "title": "Of Human Bondage", "title_pt": "Servidão Humana", "imdbId": "tt0025586" },
+          { "title": "One Night of Love", "title_pt": "Uma Noite de Amor", "imdbId": "tt0025572" },
+          { "title": "The Barretts of Wimpole Street", "title_pt": "A Família Barrett", "imdbId": "tt0024916" }
+        ],
+        "winner": "It Happened One Night",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Original Story",
+        "category_pt": "Melhor História Original",
+        "movies": [
+          { "title": "Manhattan Melodrama", "title_pt": "Melodrama de Manhattan", "imdbId": "tt0025464" },
+          { "title": "Hide-Out", "title_pt": "Esconderijo", "imdbId": "tt0025242" },
+          { "title": "The Richest Girl in the World", "title_pt": "A Moça Mais Rica do Mundo", "imdbId": "tt0025745" }
+        ],
+        "winner": "Manhattan Melodrama",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Writing (Adaptation)",
+        "category_pt": "Melhor Roteiro (Adaptação)",
+        "movies": [
+          { "title": "It Happened One Night", "title_pt": "Aconteceu Naquela Noite", "imdbId": "tt0025316" },
+          { "title": "The Thin Man", "title_pt": "A Ceia dos Acusados", "imdbId": "tt0025878" },
+          { "title": "Viva Villa!", "title_pt": "Viva Villa!", "imdbId": "tt0025914" }
+        ],
+        "winner": "It Happened One Night",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Short Subject (One-Reel)",
+        "category_pt": "Melhor Curta-metragem em Uma Bobina",
+        "movies": [
+          { "title": "La Cucaracha", "title_pt": "La Cucaracha", "imdbId": "tt0025375" },
+          { "title": "Men in Black", "title_pt": "Homens de Preto", "imdbId": "tt0025452" },
+          { "title": "What, No Men!", "title_pt": "O Que, Sem Homens!", "imdbId": "tt0025873" }
+        ],
+        "winner": "La Cucaracha",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Short Subject (Two-Reel)",
+        "category_pt": "Melhor Curta-metragem em Duas Bobinas",
+        "movies": [
+          { "title": "City of Wax", "title_pt": "Cidade de Cera", "imdbId": "tt0026145" },
+          { "title": "Bosom Friends", "title_pt": "Amigos Íntimos", "imdbId": "tt0150563" },
+          { "title": "Strikes and Spares", "title_pt": "Strikes and Spares", "imdbId": "tt0152971" }
+        ],
+        "winner": "City of Wax",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Original Score",
+        "category_pt": "Melhor Trilha Sonora",
+        "movies": [
+          { "title": "One Night of Love", "title_pt": "Uma Noite de Amor", "imdbId": "tt0025572" },
+          { "title": "The Gay Divorcee", "title_pt": "A Alegre Divorciada", "imdbId": "tt0025164" },
+          { "title": "The Lost Patrol", "title_pt": "A Patrulha Perdida", "imdbId": "tt0025423" }
+        ],
+        "winner": "One Night of Love",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Original Song",
+        "category_pt": "Melhor Canção Original",
+        "movies": [
+          { "title": "The Continental", "title_pt": "O Continental", "imdbId": "tt0025164" },
+          { "title": "Carioca", "title_pt": "Carioca", "imdbId": "tt0024025" },
+          { "title": "Love in Bloom", "title_pt": "Amor em Flor", "imdbId": "tt0025542" }
+        ],
+        "winner": "The Continental",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Assistant Director",
+        "category_pt": "Melhor Diretor Assistente",
+        "movies": [
+          { "title": "Viva Villa!", "title_pt": "Viva Villa!", "imdbId": "tt0025914" },
+          { "title": "Cleopatra", "title_pt": "Cleópatra", "imdbId": "tt0024991" },
+          { "title": "Imitation of Life", "title_pt": "Imitação da Vida", "imdbId": "tt0025301" }
+        ],
+        "winner": "Viva Villa!",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Sound Recording",
+        "category_pt": "Melhor Mixagem de Som",
+        "movies": [
+          { "title": "One Night of Love", "title_pt": "Uma Noite de Amor", "imdbId": "tt0025572" },
+          { "title": "The Affairs of Cellini", "title_pt": "Os Amores de Cellini", "imdbId": "tt0024852" },
+          { "title": "Cleopatra", "title_pt": "Cleópatra", "imdbId": "tt0024991" },
+          { "title": "Flirtation Walk", "title_pt": "Passeio Flertante", "imdbId": "tt0025157" },
+          { "title": "The Gay Divorcee", "title_pt": "A Alegre Divorciada", "imdbId": "tt0025164" },
+          { "title": "Imitation of Life", "title_pt": "Imitação da Vida", "imdbId": "tt0025301" },
+          { "title": "Viva Villa!", "title_pt": "Viva Villa!", "imdbId": "tt0025914" },
+          { "title": "The White Parade", "title_pt": "A Parada Branca", "imdbId": "tt0025940" }
+        ],
+        "winner": "One Night of Love",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Art Direction",
+        "category_pt": "Melhor Direção de Arte",
+        "movies": [
+          { "title": "The Merry Widow", "title_pt": "A Viúva Alegre", "imdbId": "tt0025493" },
+          { "title": "The Affairs of Cellini", "title_pt": "Os Amores de Cellini", "imdbId": "tt0024852" },
+          { "title": "The Gay Divorcee", "title_pt": "A Alegre Divorciada", "imdbId": "tt0025164" }
+        ],
+        "winner": "The Merry Widow",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Cinematography",
+        "category_pt": "Melhor Fotografia",
+        "movies": [
+          { "title": "Cleopatra", "title_pt": "Cleópatra", "imdbId": "tt0024991" },
+          { "title": "The Affairs of Cellini", "title_pt": "Os Amores de Cellini", "imdbId": "tt0024852" },
+          { "title": "Operator 13", "title_pt": "Operador 13", "imdbId": "tt0025582" }
+        ],
+        "winner": "Cleopatra",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Film Editing",
+        "category_pt": "Melhor Edição",
+        "movies": [
+          { "title": "Eskimo", "title_pt": "Esquimó", "imdbId": "tt0025150" },
+          { "title": "Cleopatra", "title_pt": "Cleópatra", "imdbId": "tt0024991" },
+          { "title": "One Night of Love", "title_pt": "Uma Noite de Amor", "imdbId": "tt0025572" }
+        ],
+        "winner": "Eskimo",
+        "oscars_year": 1935
+      },
+      {
+        "category": "Best Short Subject (Cartoon)",
+        "category_pt": "Melhor Animação em Curta-metragem",
+        "movies": [
+          { "title": "The Tortoise and the Hare", "title_pt": "A Tartaruga e a Lebre", "imdbId": "tt0025895" },
+          { "title": "Holiday Land", "title_pt": "Terra de Férias", "imdbId": "tt0025246" },
+          { "title": "Jolly Little Elves", "title_pt": "Os Pequenos Elfos Felizes", "imdbId": "tt0025304" }
+        ],
+        "winner": "The Tortoise and the Hare",
+        "oscars_year": 1935
+      }
+    ]
+  }
+  

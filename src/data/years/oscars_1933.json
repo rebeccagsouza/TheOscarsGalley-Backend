@@ -1,0 +1,145 @@
+{
+    "1933": [
+      {
+        "category": "Best Picture",
+        "category_pt": "Melhor Filme",
+        "movies": [
+          { "title": "Grand Hotel", "title_pt": "Grande Hotel", "imdbId": "tt0022958" },
+          { "title": "Arrowsmith", "title_pt": "Arrowsmith", "imdbId": "tt0022606" },
+          { "title": "Bad Girl", "title_pt": "Moça de Família", "imdbId": "tt0022689" },
+          { "title": "The Champ", "title_pt": "O Campeão", "imdbId": "tt0022718" },
+          { "title": "Five Star Final", "title_pt": "Cinco Estrelas", "imdbId": "tt0021897" },
+          { "title": "One Hour With You", "title_pt": "Uma Hora Contigo", "imdbId": "tt0023245" },
+          { "title": "Shanghai Express", "title_pt": "Expresso de Xangai", "imdbId": "tt0023305" },
+          { "title": "The Smiling Lieutenant", "title_pt": "O Tenente Sorridente", "imdbId": "tt0022395" }
+        ],
+        "winner": "Grand Hotel",
+        "oscars_year": 1933
+      },
+      {
+        "category": "Best Director",
+        "category_pt": "Melhor Diretor",
+        "movies": [
+          { "title": "Bad Girl", "title_pt": "Moça de Família", "imdbId": "tt0022689" },
+          { "title": "The Champ", "title_pt": "O Campeão", "imdbId": "tt0022718" },
+          { "title": "Shanghai Express", "title_pt": "Expresso de Xangai", "imdbId": "tt0023305" }
+        ],
+        "winner": "Bad Girl",
+        "oscars_year": 1933
+      },
+      {
+        "category": "Best Actor in a Leading Role",
+        "category_pt": "Melhor Ator",
+        "movies": [
+          { "title": "Dr. Jekyll and Mr. Hyde", "title_pt": "O Médico e o Monstro", "imdbId": "tt0022835" },
+          { "title": "The Champ", "title_pt": "O Campeão", "imdbId": "tt0022718" },
+          { "title": "The Guardsman", "title_pt": "O Guarda", "imdbId": "tt0021929" }
+        ],
+        "winner": "Dr. Jekyll and Mr. Hyde",
+        "oscars_year": 1933
+      },
+      {
+        "category": "Best Actress in a Leading Role",
+        "category_pt": "Melhor Atriz",
+        "movies": [
+          { "title": "The Sin of Madelon Claudet", "title_pt": "O Pecado de Madelon Claudet", "imdbId": "tt0023473" },
+          { "title": "Emma", "title_pt": "Emma", "imdbId": "tt0022879" },
+          { "title": "The Guardsman", "title_pt": "O Guarda", "imdbId": "tt0021929" }
+        ],
+        "winner": "The Sin of Madelon Claudet",
+        "oscars_year": 1933
+      },
+      {
+        "category": "Best Original Story",
+        "category_pt": "Melhor História Original",
+        "movies": [
+          { "title": "The Champ", "title_pt": "O Campeão", "imdbId": "tt0022718" },
+          { "title": "Lady and Gent", "title_pt": "Senhora e Cavalheiro", "imdbId": "tt0023087" },
+          { "title": "The Star Witness", "title_pt": "A Testemunha", "imdbId": "tt0023522" },
+          { "title": "What Price Hollywood?", "title_pt": "Hollywood a Preço de Ouro", "imdbId": "tt0023622" }
+        ],
+        "winner": "The Champ",
+        "oscars_year": 1933
+      },
+      {
+        "category": "Best Writing (Adaptation)",
+        "category_pt": "Melhor Roteiro (Adaptação)",
+        "movies": [
+          { "title": "Bad Girl", "title_pt": "Moça de Família", "imdbId": "tt0022689" },
+          { "title": "Arrowsmith", "title_pt": "Arrowsmith", "imdbId": "tt0022606" },
+          { "title": "Dr. Jekyll and Mr. Hyde", "title_pt": "O Médico e o Monstro", "imdbId": "tt0022835" }
+        ],
+        "winner": "Bad Girl",
+        "oscars_year": 1933
+      },
+      {
+        "category": "Best Short Subject (Comedy)",
+        "category_pt": "Melhor Curta-metragem (Comédia)",
+        "movies": [
+          { "title": "The Music Box", "title_pt": "A Caixa de Música", "imdbId": "tt0023251" },
+          { "title": "The Loud Mouth", "title_pt": "O Falastrão", "imdbId": "tt0023150" },
+          { "title": "Scratch-As-Catch-Can", "title_pt": "Vale Tudo", "imdbId": "tt0023425" }
+        ],
+        "winner": "The Music Box",
+        "oscars_year": 1933
+      },
+      {
+        "category": "Best Short Subject (Novelty)",
+        "category_pt": "Melhor Curta-metragem (Inovação)",
+        "movies": [
+          { "title": "Wrestling Swordfish", "title_pt": "A Pescaria Luta Livre", "imdbId": "tt0023718" },
+          { "title": "Screen Souvenirs", "title_pt": "Recordações de Tela", "imdbId": "tt0151576" },
+          { "title": "Swing High", "title_pt": "Balanço Alto", "imdbId": "tt0023523" }
+        ],
+        "winner": "Wrestling Swordfish",
+        "oscars_year": 1933
+      },
+      {
+        "category": "Best Short Subject (Cartoon)",
+        "category_pt": "Melhor Animação em Curta-metragem",
+        "movies": [
+          { "title": "Flowers and Trees", "title_pt": "Flores e Árvores", "imdbId": "tt0022899" },
+          { "title": "It's Got Me Again!", "title_pt": "Eu Me Peguei!", "imdbId": "tt0023042" },
+          { "title": "Mickey's Orphans", "title_pt": "Os Órfãos de Mickey", "imdbId": "tt0022177" }
+        ],
+        "winner": "Flowers and Trees",
+        "oscars_year": 1933
+      },
+      {
+        "category": "Best Sound Recording",
+        "category_pt": "Melhor Mixagem de Som",
+        "movies": [
+          { "title": "Paramount Publix", "title_pt": "Paramount Publix", "imdbId": null },
+          { "title": "Metro-Goldwyn-Mayer", "title_pt": "Metro-Goldwyn-Mayer", "imdbId": null },
+          { "title": "RKO Pictures", "title_pt": "RKO Pictures", "imdbId": null },
+          { "title": "Walt Disney Productions", "title_pt": "Walt Disney Productions", "imdbId": null },
+          { "title": "Warner Bros.", "title_pt": "Warner Bros.", "imdbId": null }
+        ],
+        "winner": "Paramount Publix",
+        "oscars_year": 1933
+      },
+      {
+        "category": "Best Art Direction",
+        "category_pt": "Melhor Direção de Arte",
+        "movies": [
+          { "title": "Transatlantic", "title_pt": "Transatlântico", "imdbId": "tt0023556" },
+          { "title": "À nous la liberté", "title_pt": "A Liberdade é Nossa", "imdbId": "tt0022599" },
+          { "title": "Arrowsmith", "title_pt": "Arrowsmith", "imdbId": "tt0022606" }
+        ],
+        "winner": "Transatlantic",
+        "oscars_year": 1933
+      },
+      {
+        "category": "Best Cinematography",
+        "category_pt": "Melhor Fotografia",
+        "movies": [
+          { "title": "Shanghai Express", "title_pt": "Expresso de Xangai", "imdbId": "tt0023305" },
+          { "title": "Arrowsmith", "title_pt": "Arrowsmith", "imdbId": "tt0022606" },
+          { "title": "Dr. Jekyll and Mr. Hyde", "title_pt": "O Médico e o Monstro", "imdbId": "tt0022835" }
+        ],
+        "winner": "Shanghai Express",
+        "oscars_year": 1933
+      }
+    ]
+  }
+  

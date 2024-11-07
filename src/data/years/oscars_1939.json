@@ -1,0 +1,192 @@
+{
+    "1939": [
+      {
+        "category": "Best Picture",
+        "category_pt": "Melhor Filme",
+        "movies": [
+          { "title": "You Can't Take It with You", "title_pt": "Do Mundo Nada se Leva", "imdbId": "tt0030993" },
+          { "title": "The Adventures of Robin Hood", "title_pt": "As Aventuras de Robin Hood", "imdbId": "tt0029843" },
+          { "title": "Alexander's Ragtime Band", "title_pt": "Alexander's Ragtime Band", "imdbId": "tt0029852" },
+          { "title": "Boys Town", "title_pt": "Com os Braços Abertos", "imdbId": "tt0029943" },
+          { "title": "The Citadel", "title_pt": "A Cidadela", "imdbId": "tt0029995" },
+          { "title": "Four Daughters", "title_pt": "Quatro Irmãs", "imdbId": "tt0029989" },
+          { "title": "La Grande Illusion", "title_pt": "A Grande Ilusão", "imdbId": "tt0028950" },
+          { "title": "Jezebel", "title_pt": "Jezebel", "imdbId": "tt0030287" },
+          { "title": "Pygmalion", "title_pt": "Pigmaleão", "imdbId": "tt0030637" },
+          { "title": "Test Pilot", "title_pt": "Piloto de Provas", "imdbId": "tt0030848" }
+        ],
+        "winner": "You Can't Take It with You",
+        "oscars_year": 1939
+      },
+      {
+        "category": "Best Director",
+        "category_pt": "Melhor Diretor",
+        "movies": [
+          { "title": "You Can't Take It with You", "title_pt": "Do Mundo Nada se Leva", "imdbId": "tt0030993" },
+          { "title": "Angels with Dirty Faces", "title_pt": "Anjos de Cara Suja", "imdbId": "tt0029870" },
+          { "title": "Four Daughters", "title_pt": "Quatro Irmãs", "imdbId": "tt0029989" },
+          { "title": "Boys Town", "title_pt": "Com os Braços Abertos", "imdbId": "tt0029943" },
+          { "title": "The Citadel", "title_pt": "A Cidadela", "imdbId": "tt0029995" }
+        ],
+        "winner": "You Can't Take It with You",
+        "oscars_year": 1939
+      },
+      {
+        "category": "Best Actor in a Leading Role",
+        "category_pt": "Melhor Ator",
+        "movies": [
+          { "title": "Boys Town", "title_pt": "Com os Braços Abertos", "imdbId": "tt0029943" },
+          { "title": "Algiers", "title_pt": "Argélia", "imdbId": "tt0029855" },
+          { "title": "Angels with Dirty Faces", "title_pt": "Anjos de Cara Suja", "imdbId": "tt0029870" },
+          { "title": "The Citadel", "title_pt": "A Cidadela", "imdbId": "tt0029995" },
+          { "title": "Pygmalion", "title_pt": "Pigmaleão", "imdbId": "tt0030637" }
+        ],
+        "winner": "Boys Town",
+        "oscars_year": 1939
+      },
+      {
+        "category": "Best Actress in a Leading Role",
+        "category_pt": "Melhor Atriz",
+        "movies": [
+          { "title": "Jezebel", "title_pt": "Jezebel", "imdbId": "tt0030287" },
+          { "title": "White Banners", "title_pt": "Bandeiras Brancas", "imdbId": "tt0030840" },
+          { "title": "Pygmalion", "title_pt": "Pigmaleão", "imdbId": "tt0030637" },
+          { "title": "Marie Antoinette", "title_pt": "Maria Antonieta", "imdbId": "tt0030418" },
+          { "title": "Three Comrades", "title_pt": "Três Camaradas", "imdbId": "tt0030852" }
+        ],
+        "winner": "Jezebel",
+        "oscars_year": 1939
+      },
+      {
+        "category": "Best Supporting Actor",
+        "category_pt": "Melhor Ator Coadjuvante",
+        "movies": [
+          { "title": "Kentucky", "title_pt": "Kentucky", "imdbId": "tt0030265" },
+          { "title": "Four Daughters", "title_pt": "Quatro Irmãs", "imdbId": "tt0029989" },
+          { "title": "Algiers", "title_pt": "Argélia", "imdbId": "tt0029855" },
+          { "title": "Marie Antoinette", "title_pt": "Maria Antonieta", "imdbId": "tt0030418" },
+          { "title": "If I Were King", "title_pt": "Se Eu Fosse Rei", "imdbId": "tt0030260" }
+        ],
+        "winner": "Kentucky",
+        "oscars_year": 1939
+      },
+      {
+        "category": "Best Supporting Actress",
+        "category_pt": "Melhor Atriz Coadjuvante",
+        "movies": [
+          { "title": "Jezebel", "title_pt": "Jezebel", "imdbId": "tt0030287" },
+          { "title": "Of Human Hearts", "title_pt": "Do Coração dos Homens", "imdbId": "tt0030514" },
+          { "title": "Merrily We Live", "title_pt": "Vivendo Alegremente", "imdbId": "tt0030497" },
+          { "title": "You Can't Take It with You", "title_pt": "Do Mundo Nada se Leva", "imdbId": "tt0030993" },
+          { "title": "The Great Waltz", "title_pt": "A Grande Valsa", "imdbId": "tt0030274" }
+        ],
+        "winner": "Jezebel",
+        "oscars_year": 1939
+      },
+      {
+        "category": "Best Original Story",
+        "category_pt": "Melhor História Original",
+        "movies": [
+          { "title": "Boys Town", "title_pt": "Com os Braços Abertos", "imdbId": "tt0029943" },
+          { "title": "Alexander's Ragtime Band", "title_pt": "Alexander's Ragtime Band", "imdbId": "tt0029852" },
+          { "title": "Angels with Dirty Faces", "title_pt": "Anjos de Cara Suja", "imdbId": "tt0029870" },
+          { "title": "Mad About Music", "title_pt": "Louca por Música", "imdbId": "tt0030385" },
+          { "title": "Blockade", "title_pt": "Bloqueio", "imdbId": "tt0029944" }
+        ],
+        "winner": "Boys Town",
+        "oscars_year": 1939
+      },
+      {
+        "category": "Best Writing (Adapted Screenplay)",
+        "category_pt": "Melhor Roteiro Adaptado",
+        "movies": [
+          { "title": "Pygmalion", "title_pt": "Pigmaleão", "imdbId": "tt0030637" },
+          { "title": "Four Daughters", "title_pt": "Quatro Irmãs", "imdbId": "tt0029989" },
+          { "title": "The Citadel", "title_pt": "A Cidadela", "imdbId": "tt0029995" },
+          { "title": "Boys Town", "title_pt": "Com os Braços Abertos", "imdbId": "tt0029943" },
+          { "title": "You Can't Take It with You", "title_pt": "Do Mundo Nada se Leva", "imdbId": "tt0030993" }
+        ],
+        "winner": "Pygmalion",
+        "oscars_year": 1939
+      },
+      {
+        "category": "Best Short Subject (One-Reel)",
+        "category_pt": "Melhor Curta-metragem em Uma Bobina",
+        "movies": [
+          { "title": "That Mothers Might Live", "title_pt": "Para Que as Mães Vivam", "imdbId": "tt0030857" },
+          { "title": "The Great Heart", "title_pt": "O Grande Coração", "imdbId": "tt0030201" },
+          { "title": "Timber Toppers", "title_pt": "Campeões de Madeira", "imdbId": "tt0130041" }
+        ],
+        "winner": "That Mothers Might Live",
+        "oscars_year": 1939
+      },
+      {
+        "category": "Best Short Subject (Two-Reel)",
+        "category_pt": "Melhor Curta-metragem em Duas Bobinas",
+        "movies": [
+          { "title": "Declaration of Independence", "title_pt": "Declaração de Independência", "imdbId": "tt0029987" },
+          { "title": "Swingtime in the Movies", "title_pt": "Swing no Cinema", "imdbId": "tt0029842" },
+          { "title": "They're Always Caught", "title_pt": "Eles Sempre São Pego", "imdbId": "tt0029998" }
+        ],
+        "winner": "Declaration of Independence",
+        "oscars_year": 1939
+      },
+      {
+        "category": "Best Original Score",
+        "category_pt": "Melhor Trilha Sonora",
+        "movies": [
+          { "title": "Alexander's Ragtime Band", "title_pt": "Alexander's Ragtime Band", "imdbId": "tt0029852" },
+          { "title": "Carefree", "title_pt": "Despreocupada", "imdbId": "tt0030008" },
+          { "title": "Storm Over Bengal", "title_pt": "Tempestade Sobre Bengala", "imdbId": "tt0030763" },
+          { "title": "There Goes My Heart", "title_pt": "Lá Vai Meu Coração", "imdbId": "tt0030717" },
+          { "title": "Tropic Holiday", "title_pt": "Férias Tropicais", "imdbId": "tt0030845" },
+          { "title": "The Goldwyn Follies", "title_pt": "As Follies de Goldwyn", "imdbId": "tt0030164" },
+          { "title": "Mad About Music", "title_pt": "Louca por Música", "imdbId": "tt0030385" },
+          { "title": "Jezebel", "title_pt": "Jezebel", "imdbId": "tt0030287" },
+          { "title": "Girls' School", "title_pt": "Escola para Moças", "imdbId": "tt0030154" },
+          { "title": "Sweethearts", "title_pt": "Queridinhos", "imdbId": "tt0030842" },
+          { "title": "The Young in Heart", "title_pt": "O Jovem de Coração", "imdbId": "tt0030985" }
+        ],
+        "winner": "Alexander's Ragtime Band",
+        "oscars_year": 1939
+      },
+      {
+        "category": "Best Original Song",
+        "category_pt": "Melhor Canção Original",
+        "movies": [
+          { "title": "The Big Broadcast of 1938", "title_pt": "O Grande Broadcast de 1938", "imdbId": "tt0029947" },
+          { "title": "Mannequin", "title_pt": "Mannequin", "imdbId": "tt0030413" },
+          { "title": "Carefree", "title_pt": "Despreocupada", "imdbId": "tt0030008" },
+          { "title": "The Cowboy and the Lady", "title_pt": "O Cowboy e a Dama", "imdbId": "tt0030004" },
+          { "title": "Under Western Stars", "title_pt": "Sob as Estrelas do Oeste", "imdbId": "tt0030261" },
+          { "title": "Going Places", "title_pt": "Seguindo Lugares", "imdbId": "tt0029996" },
+          { "title": "Merrily We Live", "title_pt": "Vivendo Alegremente", "imdbId": "tt0030497" },
+          { "title": "The Lady Objects", "title_pt": "A Dama Objeções", "imdbId": "tt0030269" },
+          { "title": "That Certain Age", "title_pt": "Essa Idade Certa", "imdbId": "tt0030582" },
+          { "title": "Alexander's Ragtime Band", "title_pt": "Alexander's Ragtime Band", "imdbId": "tt0029852" }
+        ],
+        "winner": "The Big Broadcast of 1938",
+        "oscars_year": 1939
+      },
+      {
+        "category": "Best Sound Recording",
+        "category_pt": "Melhor Mixagem de Som",
+        "movies": [
+          { "title": "The Cowboy and the Lady", "title_pt": "O Cowboy e a Dama", "imdbId": "tt0030004" },
+          { "title": "You Can't Take It with You", "title_pt": "Do Mundo Nada se Leva", "imdbId": "tt0030993" },
+          { "title": "Merrily We Live", "title_pt": "Vivendo Alegremente", "imdbId": "tt0030497" },
+          { "title": "Sweethearts", "title_pt": "Queridinhos", "imdbId": "tt0030842" },
+          { "title": "If I Were King", "title_pt": "Se Eu Fosse Rei", "imdbId": "tt0030260" },
+          { "title": "Army Girl", "title_pt": "A Garota do Exército", "imdbId": "tt0029880" },
+          { "title": "Vivacious Lady", "title_pt": "Dama Viva", "imdbId": "tt0030982" },
+          { "title": "Suez", "title_pt": "Suez", "imdbId": "tt0030783" },
+          { "title": "That Certain Age", "title_pt": "Essa Idade Certa", "imdbId": "tt0030582" },
+          { "title": "Four Daughters", "title_pt": "Quatro Irmãs", "imdbId": "tt0029989" }
+        ],
+        "winner": "The Cowboy and the Lady",
+        "oscars_year": 1939
+      }    
+    ]
+  }
+  
+ 

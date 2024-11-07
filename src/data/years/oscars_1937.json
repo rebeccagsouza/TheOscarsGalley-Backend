@@ -1,0 +1,273 @@
+{
+    "1937": [
+      {
+        "category": "Best Picture",
+        "category_pt": "Melhor Filme",
+        "movies": [
+          { "title": "The Great Ziegfeld", "title_pt": "O Grande Ziegfeld", "imdbId": "tt0027698" },
+          { "title": "Anthony Adverse", "title_pt": "Anthony Adverse", "imdbId": "tt0027305" },
+          { "title": "Dodsworth", "title_pt": "Dodsworth", "imdbId": "tt0027527" },
+          { "title": "Libeled Lady", "title_pt": "Essa Mulher é Minha", "imdbId": "tt0027884" },
+          { "title": "Mr. Deeds Goes to Town", "title_pt": "O Galante Sr. Deeds", "imdbId": "tt0027996" },
+          { "title": "Romeo and Juliet", "title_pt": "Romeu e Julieta", "imdbId": "tt0028203" },
+          { "title": "San Francisco", "title_pt": "San Francisco", "imdbId": "tt0028216" },
+          { "title": "The Story of Louis Pasteur", "title_pt": "A História de Louis Pasteur", "imdbId": "tt0028313" },
+          { "title": "A Tale of Two Cities", "title_pt": "Um Conto de Duas Cidades", "imdbId": "tt0027075" },
+          { "title": "Three Smart Girls", "title_pt": "Três Meninas Espertas", "imdbId": "tt0028356" }
+        ],
+        "winner": "The Great Ziegfeld",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Director",
+        "category_pt": "Melhor Diretor",
+        "movies": [
+          { "title": "Mr. Deeds Goes to Town", "title_pt": "O Galante Sr. Deeds", "imdbId": "tt0027996" },
+          { "title": "My Man Godfrey", "title_pt": "Irmão da Mulher", "imdbId": "tt0028010" },
+          { "title": "The Great Ziegfeld", "title_pt": "O Grande Ziegfeld", "imdbId": "tt0027698" },
+          { "title": "San Francisco", "title_pt": "San Francisco", "imdbId": "tt0028216" },
+          { "title": "Dodsworth", "title_pt": "Dodsworth", "imdbId": "tt0027527" }
+        ],
+        "winner": "Mr. Deeds Goes to Town",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Actor in a Leading Role",
+        "category_pt": "Melhor Ator",
+        "movies": [
+          { "title": "The Story of Louis Pasteur", "title_pt": "A História de Louis Pasteur", "imdbId": "tt0028313" },
+          { "title": "Mr. Deeds Goes to Town", "title_pt": "O Galante Sr. Deeds", "imdbId": "tt0027996" },
+          { "title": "Dodsworth", "title_pt": "Dodsworth", "imdbId": "tt0027527" },
+          { "title": "My Man Godfrey", "title_pt": "Irmão da Mulher", "imdbId": "tt0028010" },
+          { "title": "San Francisco", "title_pt": "San Francisco", "imdbId": "tt0028216" }
+        ],
+        "winner": "The Story of Louis Pasteur",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Actress in a Leading Role",
+        "category_pt": "Melhor Atriz",
+        "movies": [
+          { "title": "The Great Ziegfeld", "title_pt": "O Grande Ziegfeld", "imdbId": "tt0027698" },
+          { "title": "Theodora Goes Wild", "title_pt": "Theodora Fica doida", "imdbId": "tt0028330" },
+          { "title": "Valiant Is the Word for Carrie", "title_pt": "Coragem é o Nome de Carrie", "imdbId": "tt0028334" },
+          { "title": "My Man Godfrey", "title_pt": "Irmão da Mulher", "imdbId": "tt0028010" },
+          { "title": "Romeo and Juliet", "title_pt": "Romeu e Julieta", "imdbId": "tt0028203" }
+        ],
+        "winner": "The Great Ziegfeld",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Supporting Actor",
+        "category_pt": "Melhor Ator Coadjuvante",
+        "movies": [
+          { "title": "Come and Get It", "title_pt": "Vem e Pega", "imdbId": "tt0027468" },
+          { "title": "My Man Godfrey", "title_pt": "Irmão da Mulher", "imdbId": "tt0028010" },
+          { "title": "Pigskin Parade", "title_pt": "Parada do Futebol", "imdbId": "tt0028096" },
+          { "title": "Romeo and Juliet", "title_pt": "Romeu e Julieta", "imdbId": "tt0028203" },
+          { "title": "The General Died at Dawn", "title_pt": "O General Morreu ao Amanhecer", "imdbId": "tt0027696" }
+        ],
+        "winner": "Come and Get It",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Supporting Actress",
+        "category_pt": "Melhor Atriz Coadjuvante",
+        "movies": [
+          { "title": "Anthony Adverse", "title_pt": "Anthony Adverse", "imdbId": "tt0027305" },
+          { "title": "The Gorgeous Hussy", "title_pt": "A Dama das Camélias", "imdbId": "tt0027729" },
+          { "title": "My Man Godfrey", "title_pt": "Irmão da Mulher", "imdbId": "tt0028010" },
+          { "title": "These Three", "title_pt": "Essas Três", "imdbId": "tt0028345" },
+          { "title": "Dodsworth", "title_pt": "Dodsworth", "imdbId": "tt0027527" }
+        ],
+        "winner": "Anthony Adverse",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Original Story",
+        "category_pt": "Melhor História Original",
+        "movies": [
+          { "title": "The Story of Louis Pasteur", "title_pt": "A História de Louis Pasteur", "imdbId": "tt0028313" },
+          { "title": "Fury", "title_pt": "Fúria", "imdbId": "tt0027698" },
+          { "title": "The Great Ziegfeld", "title_pt": "O Grande Ziegfeld", "imdbId": "tt0027698" },
+          { "title": "San Francisco", "title_pt": "San Francisco", "imdbId": "tt0028216" },
+          { "title": "Three Smart Girls", "title_pt": "Três Meninas Espertas", "imdbId": "tt0028356" }
+        ],
+        "winner": "The Story of Louis Pasteur",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Writing (Screenplay)",
+        "category_pt": "Melhor Roteiro",
+        "movies": [
+          { "title": "The Story of Louis Pasteur", "title_pt": "A História de Louis Pasteur", "imdbId": "tt0028313" },
+          { "title": "After the Thin Man", "title_pt": "Depois do Homem Magro", "imdbId": "tt0027260" },
+          { "title": "Dodsworth", "title_pt": "Dodsworth", "imdbId": "tt0027527" },
+          { "title": "Mr. Deeds Goes to Town", "title_pt": "O Galante Sr. Deeds", "imdbId": "tt0027996" },
+          { "title": "My Man Godfrey", "title_pt": "Irmão da Mulher", "imdbId": "tt0028010" }
+        ],
+        "winner": "The Story of Louis Pasteur",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Short Subject (One-Reel)",
+        "category_pt": "Melhor Curta-metragem em Uma Bobina",
+        "movies": [
+          { "title": "Bored of Education", "title_pt": "Cansado de Educação", "imdbId": "tt0027451" },
+          { "title": "Moscow Moods", "title_pt": "Humores de Moscou", "imdbId": "tt0027938" },
+          { "title": "Wanted – A Master", "title_pt": "Procura-se um Mestre", "imdbId": "tt0028310" }
+        ],
+        "winner": "Bored of Education",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Short Subject (Two-Reel)",
+        "category_pt": "Melhor Curta-metragem em Duas Bobinas",
+        "movies": [
+          { "title": "The Public Pays", "title_pt": "O Público Paga", "imdbId": "tt0028140" },
+          { "title": "Double or Nothing", "title_pt": "Duplo ou Nada", "imdbId": "tt0027568" },
+          { "title": "Dummy Ache", "title_pt": "Dor de Manequim", "imdbId": "tt0027586" }
+        ],
+        "winner": "The Public Pays",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Original Score",
+        "category_pt": "Melhor Trilha Sonora",
+        "movies": [
+          { "title": "Anthony Adverse", "title_pt": "Anthony Adverse", "imdbId": "tt0027305" },
+          { "title": "The Charge of the Light Brigade", "title_pt": "A Carga da Brigada Ligeira", "imdbId": "tt0027438" },
+          { "title": "The Garden of Allah", "title_pt": "O Jardim de Alá", "imdbId": "tt0027658" },
+          { "title": "The General Died at Dawn", "title_pt": "O General Morreu ao Amanhecer", "imdbId": "tt0027696" },
+          { "title": "Winterset", "title_pt": "Inverno", "imdbId": "tt0028453" }
+        ],
+        "winner": "Anthony Adverse",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Original Song",
+        "category_pt": "Melhor Canção Original",
+        "movies": [
+          { "title": "Swing Time", "title_pt": "Ritmo Louco", "imdbId": "tt0028333" },
+          { "title": "Suzy", "title_pt": "Suzy", "imdbId": "tt0028389" },
+          { "title": "Born to Dance", "title_pt": "Nascido para Dançar", "imdbId": "tt0027451" },
+          { "title": "The Trail of the Lonesome Pine", "title_pt": "Trilha do Pinheiro Solitário", "imdbId": "tt0027194" },
+          { "title": "Pennies from Heaven", "title_pt": "Centavos do Céu", "imdbId": "tt0027995" },
+          { "title": "Sing, Baby Sing", "title_pt": "Canta, Querido, Canta", "imdbId": "tt0028132" }
+        ],
+        "winner": "Swing Time",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Dance Direction",
+        "category_pt": "Melhor Coreografia",
+        "movies": [
+          { "title": "The Great Ziegfeld", "title_pt": "O Grande Ziegfeld", "imdbId": "tt0027698" },
+          { "title": "Born to Dance", "title_pt": "Nascido para Dançar", "imdbId": "tt0027451" },
+          { "title": "Cain and Mabel", "title_pt": "Caim e Mabel", "imdbId": "tt0027402" },
+          { "title": "Dancing Pirate", "title_pt": "O Pirata Dançarino", "imdbId": "tt0027549" },
+          { "title": "Gold Diggers of 1937", "title_pt": "Procurando Ouro em 1937", "imdbId": "tt0027657" },
+          { "title": "One in a Million", "title_pt": "Um em Um Milhão", "imdbId": "tt0028001" },
+          { "title": "Swing Time", "title_pt": "Ritmo Louco", "imdbId": "tt0028333" }
+        ],
+        "winner": "The Great Ziegfeld",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Sound Recording",
+        "category_pt": "Melhor Mixagem de Som",
+        "movies": [
+          { "title": "San Francisco", "title_pt": "San Francisco", "imdbId": "tt0028216" },
+          { "title": "Banjo on My Knee", "title_pt": "Banjo no Meu Joelho", "imdbId": "tt0027368" },
+          { "title": "The Charge of the Light Brigade", "title_pt": "A Carga da Brigada Ligeira", "imdbId": "tt0027438" },
+          { "title": "Dodsworth", "title_pt": "Dodsworth", "imdbId": "tt0027527" },
+          { "title": "General Spanky", "title_pt": "General Spanky", "imdbId": "tt0027686" },
+          { "title": "Mr. Deeds Goes to Town", "title_pt": "O Galante Sr. Deeds", "imdbId": "tt0027996" },
+          { "title": "The Texas Rangers", "title_pt": "Os Rangers do Texas", "imdbId": "tt0028340" },
+          { "title": "That Girl From Paris", "title_pt": "Aquela Garota de Paris", "imdbId": "tt0028327" },
+          { "title": "Three Smart Girls", "title_pt": "Três Meninas Espertas", "imdbId": "tt0028356" }
+        ],
+        "winner": "San Francisco",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Art Direction",
+        "category_pt": "Melhor Direção de Arte",
+        "movies": [
+          { "title": "Dodsworth", "title_pt": "Dodsworth", "imdbId": "tt0027527" },
+          { "title": "Anthony Adverse", "title_pt": "Anthony Adverse", "imdbId": "tt0027305" },
+          { "title": "The Great Ziegfeld", "title_pt": "O Grande Ziegfeld", "imdbId": "tt0027698" },
+          { "title": "Lloyd's of London", "title_pt": "Lloyds de Londres", "imdbId": "tt0027882" },
+          { "title": "The Magnificent Brute", "title_pt": "O Magnífico Bruto", "imdbId": "tt0027889" },
+          { "title": "Romeo and Juliet", "title_pt": "Romeu e Julieta", "imdbId": "tt0028203" },
+          { "title": "Winterset", "title_pt": "Inverno", "imdbId": "tt0028453" }
+        ],
+        "winner": "Dodsworth",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Cinematography",
+        "category_pt": "Melhor Fotografia",
+        "movies": [
+          { "title": "Anthony Adverse", "title_pt": "Anthony Adverse", "imdbId": "tt0027305" },
+          { "title": "The General Died at Dawn", "title_pt": "O General Morreu ao Amanhecer", "imdbId": "tt0027696" },
+          { "title": "The Gorgeous Hussy", "title_pt": "A Dama das Camélias", "imdbId": "tt0027729" }
+        ],
+        "winner": "Anthony Adverse",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Film Editing",
+        "category_pt": "Melhor Edição",
+        "movies": [
+          { "title": "Anthony Adverse", "title_pt": "Anthony Adverse", "imdbId": "tt0027305" },
+          { "title": "Come and Get It", "title_pt": "Vem e Pega", "imdbId": "tt0027468" },
+          { "title": "The Great Ziegfeld", "title_pt": "O Grande Ziegfeld", "imdbId": "tt0027698" },
+          { "title": "Lloyd's of London", "title_pt": "Lloyds de Londres", "imdbId": "tt0027882" },
+          { "title": "A Tale of Two Cities", "title_pt": "Um Conto de Duas Cidades", "imdbId": "tt0027075" },
+          { "title": "Theodora Goes Wild", "title_pt": "Theodora Fica Doida", "imdbId": "tt0028330" }
+        ],
+        "winner": "Anthony Adverse",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Short Subject (Cartoon)",
+        "category_pt": "Melhor Animação em Curta-metragem",
+        "movies": [
+          { "title": "The Country Cousin", "title_pt": "O Primo do Interior", "imdbId": "tt0027467" },
+          { "title": "The Old Mill Pond", "title_pt": "O Lago do Velho Moinho", "imdbId": "tt0027993" },
+          { "title": "Popeye the Sailor Meets Sindbad the Sailor", "title_pt": "Popeye o Marinheiro Encontra Sindbad o Marinheiro", "imdbId": "tt0028126" }
+        ],
+        "winner": "The Country Cousin",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Short Subject (Color)",
+        "category_pt": "Melhor Curta-Metragem (Colorido)",
+        "movies": [
+          { "title": "Give Me Liberty", "title_pt": "Dê-me a Liberdade", "imdbId": "tt0027691" },
+          { "title": "La Fiesta de Santa Barbara", "title_pt": "A Festa de Santa Bárbara", "imdbId": "tt0027713" },
+          { "title": "Popular Science J-6-2", "title_pt": "Ciência Popular J-6-2", "imdbId": "tt0124792" }
+        ],
+        "winner": "Give Me Liberty",
+        "oscars_year": 1937
+      },
+      {
+        "category": "Best Assistant Director",
+        "category_pt": "Melhor Diretor Assistente",
+        "movies": [
+          { "title": "The Charge of the Light Brigade", "title_pt": "A Carga da Brigada Ligeira", "imdbId": "tt0027438" },
+          { "title": "Anthony Adverse", "title_pt": "Anthony Adverse", "imdbId": "tt0027305" },
+          { "title": "The Garden of Allah", "title_pt": "O Jardim de Alá", "imdbId": "tt0027658" },
+          { "title": "The Last of the Mohicans", "title_pt": "O Último dos Moicanos", "imdbId": "tt0027884" },
+          { "title": "San Francisco", "title_pt": "San Francisco", "imdbId": "tt0028216" }
+        ],
+        "winner": "The Charge of the Light Brigade",
+        "oscars_year": 1937
+      }
+    ]
+  }
+  
+
+
+  

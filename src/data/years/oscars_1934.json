@@ -1,0 +1,171 @@
+{
+    "1934": [
+      {
+        "category": "Best Picture",
+        "category_pt": "Melhor Filme",
+        "movies": [
+          { "title": "Cavalcade", "title_pt": "Cavalcade", "imdbId": "tt0023876" },
+          { "title": "42nd Street", "title_pt": "Rua 42", "imdbId": "tt0024034" },
+          { "title": "A Farewell to Arms", "title_pt": "Adeus às Armas", "imdbId": "tt0022879" },
+          { "title": "I Am a Fugitive from a Chain Gang", "title_pt": "Fugitivo da Guilhotina", "imdbId": "tt0023042" },
+          { "title": "Lady for a Day", "title_pt": "Dama por um Dia", "imdbId": "tt0023037" },
+          { "title": "Little Women", "title_pt": "As Quatro Irmãs", "imdbId": "tt0024264" },
+          { "title": "The Private Life of Henry VIII", "title_pt": "A Vida Privada de Henrique VIII", "imdbId": "tt0024473" },
+          { "title": "She Done Him Wrong", "title_pt": "Ela o Envolveu em Pecado", "imdbId": "tt0024481" },
+          { "title": "Smilin' Through", "title_pt": "Sorrindo Através das Lágrimas", "imdbId": "tt0023465" },
+          { "title": "State Fair", "title_pt": "Feira de Estado", "imdbId": "tt0024596" }
+        ],
+        "winner": "Cavalcade",
+        "oscars_year": 1934
+      },
+      {
+        "category": "Best Director",
+        "category_pt": "Melhor Diretor",
+        "movies": [
+          { "title": "Cavalcade", "title_pt": "Cavalcade", "imdbId": "tt0023876" },
+          { "title": "Lady for a Day", "title_pt": "Dama por um Dia", "imdbId": "tt0023037" },
+          { "title": "Little Women", "title_pt": "As Quatro Irmãs", "imdbId": "tt0024264" }
+        ],
+        "winner": "Cavalcade",
+        "oscars_year": 1934
+      },
+      {
+        "category": "Best Actor in a Leading Role",
+        "category_pt": "Melhor Ator",
+        "movies": [
+          { "title": "The Private Life of Henry VIII", "title_pt": "A Vida Privada de Henrique VIII", "imdbId": "tt0024473" },
+          { "title": "Berkeley Square", "title_pt": "A Praça de Berkeley", "imdbId": "tt0023775" },
+          { "title": "I Am a Fugitive from a Chain Gang", "title_pt": "Fugitivo da Guilhotina", "imdbId": "tt0023042" }
+        ],
+        "winner": "The Private Life of Henry VIII",
+        "oscars_year": 1934
+      },
+      {
+        "category": "Best Actress in a Leading Role",
+        "category_pt": "Melhor Atriz",
+        "movies": [
+          { "title": "Morning Glory", "title_pt": "Glória Matinal", "imdbId": "tt0024360" },
+          { "title": "Lady for a Day", "title_pt": "Dama por um Dia", "imdbId": "tt0023037" },
+          { "title": "Cavalcade", "title_pt": "Cavalcade", "imdbId": "tt0023876" }
+        ],
+        "winner": "Morning Glory",
+        "oscars_year": 1934
+      },
+      {
+        "category": "Best Original Story",
+        "category_pt": "Melhor História Original",
+        "movies": [
+          { "title": "One Way Passage", "title_pt": "Passagem de Ida", "imdbId": "tt0023304" },
+          { "title": "The Prizefighter and the Lady", "title_pt": "O Pugilista e a Dama", "imdbId": "tt0024477" },
+          { "title": "Rasputin and the Empress", "title_pt": "Rasputin e a Imperatriz", "imdbId": "tt0023385" }
+        ],
+        "winner": "One Way Passage",
+        "oscars_year": 1934
+      },
+      {
+        "category": "Best Writing (Adaptation)",
+        "category_pt": "Melhor Roteiro (Adaptação)",
+        "movies": [
+          { "title": "Little Women", "title_pt": "As Quatro Irmãs", "imdbId": "tt0024264" },
+          { "title": "Lady for a Day", "title_pt": "Dama por um Dia", "imdbId": "tt0023037" },
+          { "title": "State Fair", "title_pt": "Feira de Estado", "imdbId": "tt0024596" }
+        ],
+        "winner": "Little Women",
+        "oscars_year": 1934
+      },
+      {
+        "category": "Best Short Subject (Comedy)",
+        "category_pt": "Melhor Curta-metragem (Comédia)",
+        "movies": [
+          { "title": "So This Is Harris!", "title_pt": "Então, Este é o Harris!", "imdbId": "tt0024524" },
+          { "title": "Mister Mugg", "title_pt": "Senhor Mugg", "imdbId": "tt0024329" },
+          { "title": "A Preferred List", "title_pt": "Uma Lista Preferida", "imdbId": "tt0024381" }
+        ],
+        "winner": "So This Is Harris!",
+        "oscars_year": 1934
+      },
+      {
+        "category": "Best Short Subject (Novelty)",
+        "category_pt": "Melhor Curta-metragem (Inovação)",
+        "movies": [
+          { "title": "Krakatoa", "title_pt": "Krakatoa", "imdbId": "tt0024188" },
+          { "title": "Menu", "title_pt": "Menu", "imdbId": "tt0151572" },
+          { "title": "The Sea", "title_pt": "O Mar", "imdbId": "tt0024469" }
+        ],
+        "winner": "Krakatoa",
+        "oscars_year": 1934
+      },
+      {
+        "category": "Best Assistant Director",
+        "category_pt": "Melhor Diretor Assistente",
+        "movies": [
+          { "title": "Charles Barton", "title_pt": "Charles Barton", "imdbId": null },
+          { "title": "Scott Beal", "title_pt": "Scott Beal", "imdbId": null },
+          { "title": "Charles Dorian", "title_pt": "Charles Dorian", "imdbId": null },
+          { "title": "Fred Fox", "title_pt": "Fred Fox", "imdbId": null },
+          { "title": "Gordon Hollingshead", "title_pt": "Gordon Hollingshead", "imdbId": null },
+          { "title": "Dewey Starkey", "title_pt": "Dewey Starkey", "imdbId": null },
+          { "title": "William Tummel", "title_pt": "William Tummel", "imdbId": null },
+          { "title": "Al Alleborn", "title_pt": "Al Alleborn", "imdbId": null },
+          { "title": "Sid Brod", "title_pt": "Sid Brod", "imdbId": null },
+          { "title": "Orville O. Dull", "title_pt": "Orville O. Dull", "imdbId": null },
+          { "title": "Percy Ikerd", "title_pt": "Percy Ikerd", "imdbId": null },
+          { "title": "Arthur Jacobson", "title_pt": "Arthur Jacobson", "imdbId": null },
+          { "title": "Edward Killy", "title_pt": "Edward Killy", "imdbId": null },
+          { "title": "Joseph A. McDonough", "title_pt": "Joseph A. McDonough", "imdbId": null },
+          { "title": "William J. Reiter", "title_pt": "William J. Reiter", "imdbId": null },
+          { "title": "Frank Shaw", "title_pt": "Frank Shaw", "imdbId": null },
+          { "title": "Ben Silvey", "title_pt": "Ben Silvey", "imdbId": null },
+          { "title": "John S. Waters", "title_pt": "John S. Waters", "imdbId": null }
+        ],
+        "winner": "Charles Barton",
+        "oscars_year": 1934
+      },
+      {
+        "category": "Best Sound Recording",
+        "category_pt": "Melhor Mixagem de Som",
+        "movies": [
+          { "title": "A Farewell to Arms", "title_pt": "Adeus às Armas", "imdbId": "tt0022879" },
+          { "title": "42nd Street", "title_pt": "Rua 42", "imdbId": "tt0024034" },
+          { "title": "Gold Diggers of 1933", "title_pt": "Procurando Ouro em 1933", "imdbId": "tt0024069" },
+          { "title": "I Am a Fugitive from a Chain Gang", "title_pt": "Fugitivo da Guilhotina", "imdbId": "tt0023042" }
+        ],
+        "winner": "A Farewell to Arms",
+        "oscars_year": 1934
+      },
+      {
+        "category": "Best Art Direction",
+        "category_pt": "Melhor Direção de Arte",
+        "movies": [
+          { "title": "Cavalcade", "title_pt": "Cavalcade", "imdbId": "tt0023876" },
+          { "title": "A Farewell to Arms", "title_pt": "Adeus às Armas", "imdbId": "tt0022879" },
+          { "title": "When Ladies Meet", "title_pt": "Quando Senhoras se Encontram", "imdbId": "tt0024745" }
+        ],
+        "winner": "Cavalcade",
+        "oscars_year": 1934
+      },
+      {
+        "category": "Best Cinematography",
+        "category_pt": "Melhor Fotografia",
+        "movies": [
+          { "title": "A Farewell to Arms", "title_pt": "Adeus às Armas", "imdbId": "tt0022879" },
+          { "title": "Reunion in Vienna", "title_pt": "Reunião em Viena", "imdbId": "tt0024483" },
+          { "title": "Sign of the Cross", "title_pt": "O Sinal da Cruz", "imdbId": "tt0023467" }
+        ],
+        "winner": "A Farewell to Arms",
+        "oscars_year": 1934
+      },
+      {
+        "category": "Best Short Subject (Cartoon)",
+        "category_pt": "Melhor Animação em Curta-metragem",
+        "movies": [
+          { "title": "Three Little Pigs", "title_pt": "Os Três Porquinhos", "imdbId": "tt0024660" },
+          { "title": "Building a Building", "title_pt": "Construindo um Prédio", "imdbId": "tt0023826" },
+          { "title": "The Merry Old Soul", "title_pt": "A Alegre Alma Antiga", "imdbId": "tt0024333" }
+        ],
+        "winner": "Three Little Pigs",
+        "oscars_year": 1934
+      }
+    ]
+  }
+  
