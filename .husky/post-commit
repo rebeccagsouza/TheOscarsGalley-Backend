@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# Incrementa a versão no package.json sem criar uma tag Git
+npm version patch --no-git-tag-version

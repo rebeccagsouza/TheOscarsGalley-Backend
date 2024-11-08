@@ -30,7 +30,7 @@ mongoose.connect(process.env.MONGO_URI || '', {
 
 // Registrar as rotas dos filmes com o prefixo /api
 app.use('/api', movieRoutes);
-app.use('/api', frontRoutes); 
+app.use(frontRoutes); 
 
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
